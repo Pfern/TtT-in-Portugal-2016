@@ -1,5 +1,10 @@
 # TtT-in-Portugal-2016
-Sunday, July 10th
+#GTPB – The Gulbenkian Training Programme in Bioinformatics
+#ELIXIR – EXCELERATE Train-the Trainer subtask
+
+The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with the BPBR16 Training course “Bioinformatics using Python for Biomedical Researchers“ on July 10th-15th 2016.
+
+#Sunday, July 10th
 
 10h00-10h30 Introductions, formation of work goups.
 
