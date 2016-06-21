@@ -9,8 +9,8 @@ The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a 
  10h00-10h30 Introductions, who is who and what we need to achieve.
 
 1. 10h30-12h30
-  Terminology used in learning; 
-  Learning objectives and learning outcomes;
+   Terminology used in learning; 
+   Learning objectives and learning outcomes;
   How does learning work?
   What is formal and non-formal learning?
   Delivering a learning event as a mission;
@@ -31,7 +31,7 @@ The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a 
   Training course design;
   Reproducibility of training environments;
   Training materials: designing, producing, delivering; Archival; Making re-use possible;
-  Wrap-up and asignments.
+  Wrap-up and assignments.
 
 # Exercises:
   Design a questionnaire
