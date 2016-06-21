@@ -8,7 +8,7 @@ The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a 
 
  10h00-10h30 Introductions, who is who and what we need to achieve.
 
- 10h30-12h30
+1. 10h30-12h30
   Terminology used in learning; 
   Learning objectives and learning outcomes;
   How does learning work?
@@ -20,7 +20,7 @@ The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a 
 
  12h30-14h00 LUNCH
 
- 14h00-17h00 
+2. 14h00-17h00 
   Retention;
   Priming; 
   The role of wrap-up sessions;
