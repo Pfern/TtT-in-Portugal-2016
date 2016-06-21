@@ -23,7 +23,6 @@ The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a 
   
   Delivering a learning event as a mission;
   
-
   Closed loop learning delivery;
 
   Learning by doing;
