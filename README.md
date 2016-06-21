@@ -6,9 +6,10 @@ The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a 
 
 # Sunday, July 10th
 
- 10h00-10h30 Introductions, who is who and what we need to achieve.
+ (10h00-10h30)
+  Introductions, who is who and what we need to achieve.
 
-1. 10h30-12h30
+ (10h30-12h30)
    Terminology used in learning; 
    Learning objectives and learning outcomes;
   How does learning work?
@@ -18,9 +19,9 @@ The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a 
   Learning by doing;
   Promoting learner engagement.
 
- 12h30-14h00 LUNCH
+(12h30-14h00) LUNCH
 
-2. 14h00-17h00 
+ (14h00-17h00) 
   Retention;
   Priming; 
   The role of wrap-up sessions;
