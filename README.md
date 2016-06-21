@@ -34,9 +34,13 @@ The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a 
   Training materials: designing, producing, delivering; Archival; Making re-use possible;
   Wrap-up and assignments.
 
-# Exercises:
-  Design a questionnaire
-  Design a course schedule
-  Collect responses dynamically using Socrative or Learning Catalytics
-  Create a group discussion and its annotation
+# Ideas for Exercises:
+
+  Design a questionnaire;
+
+  Design a course schedule;
+
+  Collect responses dynamically using Socrative or Learning Catalytics;
+
+  Create a group discussion and its annotation;
   
