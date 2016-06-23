@@ -21,7 +21,7 @@ The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a 
   
   Relevant models from cognitive science;
   
-  Delivering a learning event as a mission;
+  Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust;
   
   Closed loop learning delivery;
 
@@ -43,7 +43,7 @@ The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a 
 
   The role of questioning in learning; Formative Assessment;
 
-  Self-confience and usage independence;
+  Self-confidence and usage independence;
 
   Assessment of training quality, participant and instructor performance;
 
