@@ -2,6 +2,8 @@
 #GTPB – The Gulbenkian Training Programme in Bioinformatics
 #ELIXIR – EXCELERATE Train-the Trainer subtask
 
+##
+
 The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with the BPBR16 Training course “Bioinformatics using Python for Biomedical Researchers“ on July 10th-15th 2016.
 
 The first day (Sunday, July 10th) will be entirely devoted to explore and discuss four main themes: 
@@ -36,19 +38,18 @@ The following days (from Monday to friday) TtT participants will be able to act 
 ### Session 1: Review of learning principles and how they apply to training
  
  * Terminology used in learning; 
- * Learning objectives and learning outcomes;
- * How does learning work?
- * Research-based principles of learning and their implications for teaching practice;
+ * Learning objectives and outcomes;
+ * How learning works: research-based principles of learning and their implications for teaching practice;
  * What is formal and non-formal learning?
  * Relevant models from cognitive science;
- * Cognitive load;
+ * Cognitive load.
+
 
 ### Session 2: Training techniques that can be used to enhance learner engagement and participation
  * Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust;
- * Teaching as a preformance art;
+ * Teaching as a preformance art: promoting learner engagement;
+ * The GOBLET skills matrix for trainers;
  * Motivation and demotivation;
- * Promoting learner engagement;
- * Skills matrix for trainers;
  * Closed loop learning delivery;
  * Learning by doing;
  * Retention;
@@ -56,6 +57,7 @@ The following days (from Monday to friday) TtT participants will be able to act 
  * Self-confidence and usage independence;
  * Carpentry teaching practices (http://swcarpentry.github.io/instructor-training/15-practices/);
  * The role of wrap-up sessions;
+
   
 ### Session 3: Session, course, and materials design
 * Training session design and plan;
@@ -65,7 +67,6 @@ The following days (from Monday to friday) TtT participants will be able to act 
 * Training materials: re-use. Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
 * Training materials: Archival; Sharing; Making re-use possible;
 * Preparatory steps for training delivery;
-
 
 ### Session 4: Assessment and feedback in training
 * Diagnostic questionnaires
