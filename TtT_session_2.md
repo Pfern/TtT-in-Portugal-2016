@@ -29,29 +29,37 @@ You can leverage multiple learning/teaching modes; indeed, fostering a high orde
 Provide students easier access to you (the instructor)
 
 ####Teaching as a preformance art: promoting learner engagement
+ALLEGRA
 
 ####The GOBLET skills matrix for trainers
 
 ![The Goblet skills matrix for trainers](fig/goblet_skills_matrix.jpg)
 
 ####Motivation and demotivation
-
+PEDRO
+ALLEGRA
 
 ####Closed loop learning delivery
-
+PEDRO
 
 ####Learning by doing
-
+ALLEGRA
 
 ![What people remember](fig/what_people_remember.jpg)
 
 ####Retention
+PEDRO
 
 ####Priming
+PEDRO
  
 ####Self-confidence and usage independence
+PEDRO
 
 ####Carpentry teaching practices (http://swcarpentry.github.io/instructor-training/15-practices/)
+ALLEGRA
 
 ####The role of wrap-up sessions
+PEDRO
+ALLEGRA
 

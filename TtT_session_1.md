@@ -66,8 +66,28 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 
 ####How learning works: research-based principles of learning and their implications for teaching practice
 
+ 
+How learning works: Seven research-based principles for smart teaching
+By Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer
+ISBN: 978-0-470-48410-4
+
+See also: [The Eberly Center for Teaching Excellence and Educational Innovation ](http://www.cmu.edu/teaching/)"Learning results from what the student does and thinks and only from what the student does and thinks. The teacher can advance learning only by influencing what the student does to learn" (H.A. Simon1 )What is learning?- Learning is not a product but a process occurring in the mind. As such, we can only infer that it has occurred from students' products or performance- Learning involves change in knowledge, beliefs, behaviours, or attitudes- Learning is not something done to students, but rather something students themselves do.
+
+
+The seven principles of learning from :1.	Students' prior knowledge can help or hinder learning	What does the research tell us about prior knowledge?	What teaching strategies does the research suggest?2.	How students organise knowledge influences how they learn and apply what they know3.	Students motivation determines, directs and sustains what they do learn4.	To develop mastery, students must acquire component skills, practice integrating them, and how and when to apply what they have learned5.	Goal-directed practice coupled with targeted feedback enhances the quality of students' learning6.	Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning7.	To become self-directd leaners, students must learn to monitor and adjust their approaches to learning.
+
 ####What is formal and non-formal learning?
+
+PEDRO
 
 ####Relevant models from cognitive science
 
+ALLEGRA: Mention Learning styles
+
 ####Cognitive load
+ALLEGRA
+PEDRO
+
+
+##Group activity
+

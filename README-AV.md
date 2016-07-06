@@ -58,28 +58,29 @@ The following days (from Monday to friday) TtT participants will be able to act 
  * Carpentry teaching practices (http://swcarpentry.github.io/instructor-training/15-practices/);
  * The role of wrap-up sessions;
 
-  
 ### Session 3: Session, course, and materials design
 * Training session design and plan;
-* Training course design;
+* From session to course design;
 * Training rooms for Bioinformatics, Reproducibility of training environments;
 * Training materials: designing, producing, delivering;
-* Training materials: re-use. Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
 * Training materials: Archival; Sharing; Making re-use possible;
+* Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
 * Preparatory steps for training delivery;
 
 ### Session 4: Assessment and feedback in training
+* Formative and summative assessment;
+* Using questionnaires to promote peer instruction and content delivery;
+* The role of questioning in learning; Formative Assessment;
 * Diagnostic questionnaires
 * Design of MCQs with distractors
-* Using questionnaires to promote peer instruction and content delivery;
 * Assessment of training quality, participant and instructor performance;
 * Systematic Feedback;
-*The role of questioning in learning; Formative Assessment;
+* (Short and long term) Post-course feedback.
 
-# Ideas for Exercises:
+# Ideas for Challenges:
 
   * Design a diagnostic questionnaire;
-  * Plan a session
+  * Plan a session;
   * Design a course schedule;
   * Draw a concept map for a session;
   * Prepare a mini-presentation (3-mins); video yourself while delivering it; watch the video; adjust the mini-session and run it again [notice that you have to find a topic that can be taught in 3 minutes; it could be from any field]
