@@ -1,6 +1,10 @@
-# TtT-in-Portugal-2016
+# Train the Trainer in Portugal - 2016
 #GTPB – The Gulbenkian Training Programme in Bioinformatics
 #ELIXIR – EXCELERATE Train-the Trainer subtask
+
+**Allegra Via**, **Vincenza Colonna**, ELIXIR-IT
+**Pedro Fernandes**, ELIXIR-PT, GTPB
+with the cooperation of **David P. Judge**, GTPB long term collaborator
 
 ##
 
