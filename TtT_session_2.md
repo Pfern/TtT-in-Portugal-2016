@@ -42,7 +42,12 @@ In general terms, as an instructor, if you feel that you need to motivate learne
 
 You should identify factors that may demotivate your audience and build plans to avoid them. Factors that relate to delivery format are a particular concern, as they can ruin training that has been carefully built, content-wise. Lengthy lectures, over-crowded slides, lack of materials to follow-up are good examples. The techniques that can be used to keep motivation up in an audience are called engagement.
 
-more ...
+Examples of techniques that you can use to promote engagement in training:
+
+* Establish teamwork by agreement
+* Introduce blended multi-media materials 
+* Make frequent use of instant feedback to monitor and to induce self-assessment
+* Offer participatory stimuli (prizes, gamifications)
 
 
 
