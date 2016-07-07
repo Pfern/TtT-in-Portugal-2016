@@ -37,6 +37,15 @@ ALLEGRA
 
 ####Motivation and demotivation
 PEDRO
+
+In general terms, as an instructor, if you feel that you need to motivate learners you should stop and think. There must be something wrong. You may be unable to identify the reason but this should be seen as a signal not to continue. You should not need to motivate people that fall in yor hands, but if you do, you should have a strategy in place for that. Start with figuring out the level of the audience and what could grab their interest.
+
+You should identify factors that may demotivate your audience and build plans to avoid them. Factors that relate to delivery format are a particular concern, as they can ruin training that has been carefully built, content-wise. Lengthy lectures, over-crowded slides, lack of materials to follow-up are good examples. The techniques that can be used to keep motivation up in an adience are called engagement.
+
+more ...
+
+
+
 ALLEGRA
 
 ####Closed loop learning delivery
