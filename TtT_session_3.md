@@ -16,8 +16,13 @@
 ### From session to course design;
 
 ### Training rooms for Bioinformatics, Reproducibility of training environments;
+
 PEDRO
 
+Bioinformatics training targets a wide range of subjects that have very different needs in terms of the machinery needed to run exercises. 
+
+Hardware neeeds
+In some subjects, network connections providing simple browing (Port 80) or SSH acceess (Port 22) are more than sufficient. In that case
 ### Training materials: designing, producing, delivering;
 
 
