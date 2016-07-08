@@ -10,7 +10,7 @@ with the cooperation of **David P. Judge**, GTPB long term collaborator
 
 ##
 
-#Participants
+**Participants**
 * Domenica	d'Elia, Istituto di Tecnologie Biomediche – CNR
 * Hermina	Ghenu, Instituto Gulbenkian de Ciência
 * Inês	Fragata, Instituto Gulbenkian de Ciência
@@ -21,6 +21,7 @@ with the cooperation of **David P. Judge**, GTPB long term collaborator
 
 ##
 
+**Purpose**
 The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with the BPBR16 Training course “Bioinformatics using Python for Biomedical Researchers“ on July 10th-15th 2016.
 
 The first day (Sunday, July 10th) will be entirely devoted to explore and discuss four main themes: 
