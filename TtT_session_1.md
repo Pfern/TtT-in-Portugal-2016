@@ -35,25 +35,25 @@ Most definitions are taken from the [Glossary of Online Learning Terms](http://t
 #Learning objectives and outcomes
 
 ####Learning Objectives
-* * Objectives describe the goals and intentions of the instructor.
-* * Objectives, often termed the input in the course, state the purpose and goals of the course.
-* * Objectives focus on content and skills important within the classroom or program.
-* * Objectives may describe what the instructors will do.
-* * Objectives can often be numerous, specific, and detailed.
+ * Objectives describe the goals and intentions of the instructor.
+ * Objectives, often termed the input in the course, state the purpose and goals of the course.
+ * Objectives focus on content and skills important within the classroom or program.
+ * Objectives may describe what the instructors will do.
+ * Objectives can often be numerous, specific, and detailed.
 
 ####Learning Outcomes
-* * Student Learning Outcomes catalog the overarching "products" of the course and are the
+ * Student Learning Outcomes catalog the overarching "products" of the course and are the
 evidence that the goals or objectives were achieved.
-* * Learning Outcomes are statements that describe or list measurable and essential mastered
+ * Learning Outcomes are statements that describe or list measurable and essential mastered
 content-knowledge—reflecting skills, competencies, and knowledge that students have
 achieved and can demonstrate upon successfully completing a course.
-* * Outcomes express higher-level thinking skills that integrate course content and activities and
+ * Outcomes express higher-level thinking skills that integrate course content and activities and
 can be observed as a behavior, skill, or discrete useable knowledge upon completing the
 course.
-* * Outcomes are exactly what assessments are intended to show – specifically what the student
+ * Outcomes are exactly what assessments are intended to show – specifically what the student
 will be able to do upon completing the course.
-* * An assessable outcome can be displayed or observed and evaluated against criteria.
-* * Outcomes are clear and measurable criteria for guiding the teaching, learning, and
+ * An assessable outcome can be displayed or observed and evaluated against criteria.
+ * Outcomes are clear and measurable criteria for guiding the teaching, learning, and
 assessment process in the course.
 
 Adapted from http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes
