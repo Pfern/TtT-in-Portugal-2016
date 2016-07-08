@@ -10,14 +10,14 @@ with the cooperation of **David P. Judge**, GTPB long term collaborator
 
 ##
 
-Participants
-Domenica	d'Elia					Istituto di Tecnologie Biomediche – CNR
-Hermina	Ghenu					Instituto Gulbenkian de Ciência
-Inês	Fragata					Instituto Gulbenkian de Ciência
-Jure 	Dimec					Univerza v Ljubljani 
-Kim	Gurwitz					University of Cape Town
-Marta	Pingarilho					Instituto de Higiene e Medicina Tropical
-Ranghild	Lereim					University of Bergen
+#Participants
+*Domenica	d'Elia					Istituto di Tecnologie Biomediche – CNR
+*Hermina	Ghenu					Instituto Gulbenkian de Ciência
+*Inês	Fragata					Instituto Gulbenkian de Ciência
+*Jure 	Dimec					Univerza v Ljubljani 
+*Kim	Gurwitz					University of Cape Town
+*Marta	Pingarilho					Instituto de Higiene e Medicina Tropical
+*Ranghild	Lereim					University of Bergen
 
 ##
 
