@@ -3,16 +3,16 @@
 ## Session 2: Training techniques that can be used to enhance learner engagement and participation
 
  * [Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust;](#delivering)
- * Teaching as a preformance art: promoting learner engagement;
- * The GOBLET skills matrix for trainers;
- * Motivation and demotivation;
- * Closed loop learning delivery;
- * Learning by doing;
- * Retention;
- * Priming; 
- * Self-confidence and usage independence;
- * Carpentry teaching practices (http://swcarpentry.github.io/instructor-training/15-practices/);
- * The role of wrap-up sessions;
+ * [Teaching as a preformance art: promoting learner engagement;](#teaching)
+ * [The GOBLET skills matrix for trainers;](#goblet)
+ * [Motivation and demotivation;](#motivation)
+ * [Closed loop learning delivery](#closed)
+ * [Learning by doing;](#learning)
+ * [Retention;](#retention)
+ * [Priming;] (#priming)
+ * [Self-confidence and usage independence;](#self)
+ * [Carpentry teaching practices](#carpentry) (http://swcarpentry.github.io/instructor-training/15-practices/);
+ * [The role of wrap-up sessions;](#wrap)
 
 <a name="delivering"></a>
 #### Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust
@@ -29,13 +29,15 @@ You can leverage multiple learning/teaching modes; indeed, fostering a high orde
 
 Provide students easier access to you (the instructor)
 
+<a name="teaching"></a>
 ####Teaching as a preformance art: promoting learner engagement
 ALLEGRA
-
+<a name="goblet"></a>
 ####The GOBLET skills matrix for trainers
 
 ![The Goblet skills matrix for trainers](fig/goblet_skills_matrix.jpg)
 
+<a name="motivation"></a>
 ####Motivation and demotivation
 PEDRO
 
@@ -53,7 +55,7 @@ Examples of techniques that you can use to promote engagement in training:
 
 
 ALLEGRA
-
+<a name="closed"></a>
 ####Closed loop learning delivery
 
 PEDRO
@@ -61,13 +63,13 @@ PEDRO
 Lectures, as traditionally used in formal learning, are characterised by a unidirectional flow of information, from one instructor to N learners. Only in rare occasions is there information going back to the instructor. Moreover, the instructor is not necessarily worried about the result, i.e. if the information that is sent is sedimenting or not in the learners' brain. So, the instructor can speak for several hours in unidirectional mode.
 
 In training, we also use lectures to convey information, but we make them short, and, n«more importantly we make them fit in a model of delivery that is called a closed loop. The instructor delivers information so that it can be immediately utilised in and exercise or some aother form of assessment. The learner perceives the effect of the incoming information and his/her ability to use it, and has an opportunity to interact with the instructor, thus "closing the loop". The instructor uses this mode to ensure that the new knowledge or skill is well sedimented in the learner's brain, and corrects whatever is needed.
-
+<a name="learning"></a>
 ####Learning by doing
 
 ALLEGRA
 
 ![What people remember](fig/what_people_remember.jpg)
-
+<a name="retention"></a>
 ####Retention
 
 PEDRO
@@ -86,16 +88,16 @@ Whereas in deep learning, the learner develops his own organisationa scheme/fram
 
 Short term memory (STM) has an evanescent behaviour. Repetition, as on rote learning, is maximally effective in producing long term memory (LTM), when not delivered all at once. Paced repetition combines recall with new memorisation, as typically shown in 
 http://com.msu.edu/Students/Academic_Guidance/long_term_retention_recall.pdf
-
+<a name="priming"></a>
 ####Priming
 PEDRO
- 
+ <a name="self"></a>
 ####Self-confidence and usage independence
 PEDRO
-
+<a name="carpentry"></a>
 ####Carpentry teaching practices (http://swcarpentry.github.io/instructor-training/15-practices/)
 ALLEGRA
-
+<a name="wrap"></a>
 ####The role of wrap-up sessions
 PEDRO
 ALLEGRA
