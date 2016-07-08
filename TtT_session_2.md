@@ -4,7 +4,6 @@
 
  * [Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust;](#delivering)
  * [Teaching as a preformance art: promoting learner engagement;](#teaching)
- * [The GOBLET skills matrix for trainers;](#goblet)
  * [Motivation and demotivation;](#motivation)
  * [Closed loop learning delivery](#closed)
  * [Learning by doing;](#learning)
@@ -27,13 +26,26 @@ Small groups, team-based exercises, and collaborative endeavours support a varie
 Make sure to use clear and well developed protcolos that minimise any loss of time or productivity.
 You can leverage multiple learning/teaching modes; indeed, fostering a high order of thinking skills is far more successful when students are given multiples ways to process information.  The variety of tools, twist of place to work and a range of people to network with at various intervals empower individuals.
 
-Provide students easier access to you (the instructor)
+Provide students easier access to you (the instructor).
 
 <a name="teaching"></a>
 ####Teaching as a preformance art: promoting learner engagement
-ALLEGRA
-<a name="goblet"></a>
-####The GOBLET skills matrix for trainers
+
+> ###Challenge 1: Training you have been involved in...
+
+>- What makes a good training session?
+>- What makes a bad training session?
+>
+>Think of an example of each that you have participated in and list your thoughts…
+
+
+> ###Challenge 2: What makes a good trainer? 
+Discuss it in pairs and write down which characteristics you think a good trainer should have.
+
+>[Compare your thoughts with ours](#challenge2)
+
+> ###Challenge 3: The GOBLET skills matrix for trainers
+> This matrix was developed by GOBLET TtT taskforce. It aims to provide an  overview of the major skills required to be a good trainer; note that not all trainers will have all skills - that is not the point! Try to reflect on your current skills and how they fit with this matrix.  
 
 ![The Goblet skills matrix for trainers](fig/goblet_skills_matrix.jpg)
 
@@ -63,16 +75,54 @@ PEDRO
 Lectures, as traditionally used in formal learning, are characterised by a unidirectional flow of information, from one instructor to N learners. Only in rare occasions is there information going back to the instructor. Moreover, the instructor is not necessarily worried about the result, i.e. if the information that is sent is sedimenting or not in the learners' brain. So, the instructor can speak for several hours in unidirectional mode.
 
 In training, we also use lectures to convey information, but we make them short, and, n«more importantly we make them fit in a model of delivery that is called a closed loop. The instructor delivers information so that it can be immediately utilised in and exercise or some aother form of assessment. The learner perceives the effect of the incoming information and his/her ability to use it, and has an opportunity to interact with the instructor, thus "closing the loop". The instructor uses this mode to ensure that the new knowledge or skill is well sedimented in the learner's brain, and corrects whatever is needed.
+
 <a name="learning"></a>
 ####Learning by doing
 
 ALLEGRA
 
+>###Challenge 4: How do you go about learning something new ?
+
+> - Read about it
+> - Attend a training session !
+> - Have a go ?
+> - Do, reflect, process, further understand?
+> 
+> Which is the most effective approach for *you* to learn? Discuss it with your partner and compare. Make a list of three effective approaches (from the most to the less effective one).
+
+
 ![What people remember](fig/what_people_remember.jpg)
 <a name="retention"></a>
-####Retention
 
-PEDRO
+"Learners who actively engage with course materials will end up retaining it for much longer than they would have otherwise, and they will be better able to apply their knowledge broadly."(Waldrop, Nature 2015)
+
+Our experience suggests that there are activities that should be reduced and activities that should be carried out as much intensively as possible.
+
+Activities the instructor should keep to a minimum:
+
+- lecturing
+- individual work out
+- answering questions
+- keeping the same pace
+- using a monotone modality of content delivery (including the tone of the voice)
+
+
+Activities the instructor should promote:
+
+- listening
+- asking questions/challenging
+- group discussions/brainstorming
+- work in pairs/groups
+- problem solving
+- peer instruction
+- participants' interaction/neworking
+- games
+- physical exercise
+- presentations by participants
+- change of mode/pace/activity
+
+
+####Retention
 
 “I hear and I forget. I see and I remember. I do and I understand.”
 – Confucius
@@ -102,3 +152,17 @@ ALLEGRA
 PEDRO
 ALLEGRA
 
+
+##Challenges: discussion
+
+<a name="challenge2">Challenge 2</a>:
+What makes a good trainer? 
+
+- Knowledge of subject
+- Clear aims for session outcomes
+- Confidence in delivery
+- Appropriate delivery
+- Listens to trainees 
+- Flexible – can change pace / depth if required
+- Approachable
+- Engaging

@@ -10,7 +10,7 @@
  * [Cognitive load.](#cognitive)
 
 <a name="term"></a>
- ####Terminology used in learning
+####Terminology used in learning
 Most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf).
 
 * **ACTIVE LEARNING**: A process whereby learners are actively engaged in the learning process, rather than "passively" absorbing lectures. Active learning involves reading, writing, discussion, and engagement in solving problems, analysis, synthesis, and evaluation. Active learning often involves cooperative learning (from the [Glossary of education terms on Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_education_terms)). 
@@ -68,22 +68,27 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 <a name="works"></a>
 ####How learning works: research-based principles of learning and their implications for teaching practice
 
- 
-How learning works: Seven research-based principles for smart teaching
-By Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer
+--- 
+> Source:
+> How learning works: Seven research-based principles for smart teaching
+> By Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer
 ISBN: 978-0-470-48410-4
+
+---
 
 See also: [The Eberly Center for Teaching Excellence and Educational Innovation ](http://www.cmu.edu/teaching/)
 
-"Learning results from what the student does and thinks and only from what the student does and thinks. The teacher can advance learning only by influencing what the student does to learn" (H.A. Simon1 )
+"Learning results from what the student does and thinks and only from what the student does and thinks. The teacher can advance learning only by influencing what the student does to learn" (H.A. Simon)
 
-What is learning?
+**What is learning?**
+
 - Learning is not a product but a process occurring in the mind. As such, we can only infer that it has occurred from students' products or performance
 - Learning involves change in knowledge, beliefs, behaviours, or attitudes
 - Learning is not something done to students, but rather something students themselves do.
 
 
-The seven principles of learning from :
+The seven principles of learning:
+
 1.	Students' prior knowledge can help or hinder learning
 	What does the research tell us about prior knowledge?
 	What teaching strategies does the research suggest?
@@ -93,6 +98,8 @@ The seven principles of learning from :
 5.	Goal-directed practice coupled with targeted feedback enhances the quality of students' learning
 6.	Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning
 7.	To become self-directd leaners, students must learn to monitor and adjust their approaches to learning.
+
+
 <a name="formal"></a>
 ####What is formal and non-formal learning?
 
@@ -102,10 +109,12 @@ PEDRO
 
 ALLEGRA: Mention Learning styles
 <a name="cognitive"></a>
+
 ####Cognitive load
 ALLEGRA
 PEDRO
 
 <a name="group"></a>
+
 ##Group activity
 
