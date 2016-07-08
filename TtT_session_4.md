@@ -17,6 +17,17 @@
 ### The role of questioning in learning; Formative Assessment;
 
 ### Using questionnaires to promote peer instruction and content delivery;
+Quotes form "Peer Intruction, Getting students to think in class" by Erik Mazur , pdf available [here](http://mazur.harvard.edu/sentFiles/Mazur_274537.pdf)
+
+".. while listening is largely a passive activity, reading more easily engages the mind and it allows more time for the imagination to explore questions." 
+
+"the first exposure to new material comes from reading printed material before the lecture reading." 
+
+
+to be continued .... SEE QUESTIONNAIRE  IN THE PDF 
+
+
+
 
 ### Diagnostic questionnaires
 ALLEGRA
