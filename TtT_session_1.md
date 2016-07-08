@@ -32,16 +32,16 @@ Most definitions are taken from the [Glossary of Online Learning Terms](http://t
 * **WEB-BASED TRAINING (WBT)**: WBT refers to all types of digital instruction in which the learning material is presented via the Internet.
 
 <a name="learning"></a>
-#Learning objectives and outcomes
+####Learning objectives and outcomes
 
-####Learning Objectives
+###Learning Objectives
  * Objectives describe the goals and intentions of the instructor.
  * Objectives, often termed the input in the course, state the purpose and goals of the course.
  * Objectives focus on content and skills important within the classroom or program.
  * Objectives may describe what the instructors will do.
  * Objectives can often be numerous, specific, and detailed.
 
-####Learning Outcomes
+###Learning Outcomes
  * Student Learning Outcomes catalog the overarching "products" of the course and are the
 evidence that the goals or objectives were achieved.
  * Learning Outcomes are statements that describe or list measurable and essential mastered
