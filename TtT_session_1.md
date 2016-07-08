@@ -34,30 +34,29 @@ Most definitions are taken from the [Glossary of Online Learning Terms](http://t
 <a name="learning"></a>
 ####Learning objectives and outcomes
 
-#Learning Objectives#
-• Objectives describe the goals and intentions of the professor who teaches the course.
-• Objectives, often termed the input in the course, state the purpose and goals of the course.
-• Objectives focus on content and skills important within the classroom or program.
-Objectives may describe what the staff and faculty will do.
-• Objectives can often be numerous, specific, and detailed. Assessing and reporting on each
-objective for each student may be impossible.
+#Learning Objectives
+* * Objectives describe the goals and intentions of the instructor.
+* * Objectives, often termed the input in the course, state the purpose and goals of the course.
+* * Objectives focus on content and skills important within the classroom or program.
+* * Objectives may describe what the instructors will do.
+* * Objectives can often be numerous, specific, and detailed.
 
-#Learning Outcomes#
-• Student Learning Outcomes catalog the overarching "products" of the course and are the
+#Learning Outcomes
+* * Student Learning Outcomes catalog the overarching "products" of the course and are the
 evidence that the goals or objectives were achieved.
-• Learning Outcomes are statements that describe or list measurable and essential mastered
+* * Learning Outcomes are statements that describe or list measurable and essential mastered
 content-knowledge—reflecting skills, competencies, and knowledge that students have
 achieved and can demonstrate upon successfully completing a course.
-• Outcomes express higher-level thinking skills that integrate course content and activities and
+* * Outcomes express higher-level thinking skills that integrate course content and activities and
 can be observed as a behavior, skill, or discrete useable knowledge upon completing the
 course.
-• Outcomes are exactly what assessments are intended to show – specifically what the student
+* * Outcomes are exactly what assessments are intended to show – specifically what the student
 will be able to do upon completing the course.
-• An assessable outcome can be displayed or observed and evaluated against criteria.
-• Outcomes are clear and measurable criteria for guiding the teaching, learning, and
+* * An assessable outcome can be displayed or observed and evaluated against criteria.
+* * Outcomes are clear and measurable criteria for guiding the teaching, learning, and
 assessment process in the course.
 
-Source http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes
+Adapted from http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes
 
 
 **Bloom's Taxonomy of Educational Objectives (1956) - Cognitive Skills**: A group of educators, led by Benjamin Bloom, identified a hierarchy of six categories of cognitive skills: knowledge, comprehension, application, analysis, synthesis and evaluation.  As students learn, they start with the knowledge level and progress through the hierarchy.  Thus, advanced courses should include skills at a higher level than introductory or basic skills courses.  Below you will find a web-resource as well as a list of measurable verbs to assist you in writing course objectives and assess learning outcomes.
