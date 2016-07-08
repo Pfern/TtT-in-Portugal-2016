@@ -11,18 +11,17 @@
 
 <a name="term"></a>
 ####Terminology used in learning
-Most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf).
+Most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf). Adaptations were introduced as necessary.
 
 * **ACTIVE LEARNING**: A process whereby learners are actively engaged in the learning process, rather than "passively" absorbing lectures. Active learning involves reading, writing, discussion, and engagement in solving problems, analysis, synthesis, and evaluation. Active learning often involves cooperative learning (from the [Glossary of education terms on Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_education_terms)). 
 * **ASYNCHRONOUS LEARNING**: When learners participate in an online learning course at different times. This might also be called eLearning or web-based training (WBT). Asynchronous learning allows learners to go through a course at their own pace and on their own schedule.
 * **BLENDED LEARNING or HYBRID LEARNING**: It is an instructional approach that includes a combination of online and in-person learning activities. For example, students can complete online self-paced assignments by a certain date and then meet on-site or online for additional learning activities.
 * **COURSEWARE**: Courseware refers to any instructional software that is delivered on a computer.
 * **DISTANCE EDUCATION or DISTANCE LEARNING**: Distance Education/Learning occurs when students and their instructors are in different geographical locations and the instruction occurs on an electronic device, such as a computer or mobile phone. The learning can occur in a synchronous environment, in which all participants are connected at the same time or in an asynchronous environment, when participants are engaged in learning at different times.
-* **eLEARNING**:eLearning (short for electronic learning) is an umbrella term that refers to all types of training, education and instruction that occurs on a digital medium, like a computer or mobile phone.
+* **eLEARNING**:eLearning (short for electronic learning) is an umbrella term that refers to all types of training, education and instruction that occurs on a digital medium, like a computer or mobile phone. The term evolved from Enhanced Learning which was actually more encompassing and acccurate.
 * **INFORMAL LEARNING**: Informal learning occurs when people have a need to know something. They set their own learning objectives and acquire knowledge, skills and information in their own ways. This could be through asking questions, observing experts, practicing and conversing. It’s the kind of natural learning humans do outside of a structured environment.
 * **INSTRUCTIONAL DESIGN**: Instructional design involves the identification of the knowledge, information, and skill gaps of a particular group of people and creating or selecting learning experiences that close this gap. Instructional designers base their learning decisions on cognitive psychology, instructional theory and best practices.
 * **INSTRUCTOR LED TRAINING (ILT)**: ILT typically refers to providing instruction in a classroom environment where the instructor and learners are together at the same time and in the same physical location.
-* **LEARNING OBJECTIVES (LOs)**: A LO is an outcome statement that captures specifically what knowledge, skills, attitudes learners should be able to exhibit following instruction.
 * **MOBILE LEARNING**: Learning that takes place on a hand-held device, such as a mobile phone, that can take place anytime and anywhere.
 * **MULTIMEDIA**: Multimedia refers to the presentation of information and instruction through a combination of graphics, audio, text, or video. Multimedia instruction is often interactive.
 * **ONLINE LEARNING**: The term online learning is often used synonymously with eLearning. It is an umbrella term that includes any type of learning accomplished on a computer and usually over the Internet.
@@ -35,7 +34,30 @@ Most definitions are taken from the [Glossary of Online Learning Terms](http://t
 <a name="learning"></a>
 ####Learning objectives and outcomes
 
-http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes
+#Learning Objectives#
+• Objectives describe the goals and intentions of the professor who teaches the course.
+• Objectives, often termed the input in the course, state the purpose and goals of the course.
+• Objectives focus on content and skills important within the classroom or program.
+Objectives may describe what the staff and faculty will do.
+• Objectives can often be numerous, specific, and detailed. Assessing and reporting on each
+objective for each student may be impossible.
+
+#Learning Outcomes#
+• Student Learning Outcomes catalog the overarching "products" of the course and are the
+evidence that the goals or objectives were achieved.
+• Learning Outcomes are statements that describe or list measurable and essential mastered
+content-knowledge—reflecting skills, competencies, and knowledge that students have
+achieved and can demonstrate upon successfully completing a course.
+• Outcomes express higher-level thinking skills that integrate course content and activities and
+can be observed as a behavior, skill, or discrete useable knowledge upon completing the
+course.
+• Outcomes are exactly what assessments are intended to show – specifically what the student
+will be able to do upon completing the course.
+• An assessable outcome can be displayed or observed and evaluated against criteria.
+• Outcomes are clear and measurable criteria for guiding the teaching, learning, and
+assessment process in the course.
+
+Source http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes
 
 
 **Bloom's Taxonomy of Educational Objectives (1956) - Cognitive Skills**: A group of educators, led by Benjamin Bloom, identified a hierarchy of six categories of cognitive skills: knowledge, comprehension, application, analysis, synthesis and evaluation.  As students learn, they start with the knowledge level and progress through the hierarchy.  Thus, advanced courses should include skills at a higher level than introductory or basic skills courses.  Below you will find a web-resource as well as a list of measurable verbs to assist you in writing course objectives and assess learning outcomes.
