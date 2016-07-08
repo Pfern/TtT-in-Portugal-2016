@@ -1,3 +1,5 @@
+this is another attempt by enza 
+
 
 try again enza 
 
@@ -12,7 +14,13 @@ Second test from Allegra
 Third test from Allegra
 =======
 directly online
+<<<<<<< HEAD
 >>>>>>> 22e4c2477ceaf6207ec3151128448a10c3692a54
 
 
 Fourth test by Allegra
+=======
+
+Pedro modified at 9h24
+
+>>>>>>> 18863dcce2110b9a3ce17fefb181f0238e0fa2b6
