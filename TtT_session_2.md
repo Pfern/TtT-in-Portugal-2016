@@ -2,7 +2,7 @@
 
 ## Session 2: Training techniques that can be used to enhance learner engagement and participation
 
- * Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust;
+ * [Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust;](delivering)
  * Teaching as a preformance art: promoting learner engagement;
  * The GOBLET skills matrix for trainers;
  * Motivation and demotivation;
@@ -14,6 +14,7 @@
  * Carpentry teaching practices (http://swcarpentry.github.io/instructor-training/15-practices/);
  * The role of wrap-up sessions;
 
+<a name="delivering"></a>
 ####Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust
 Start with learning objectives (LOs). Once you have defined what learners need to achieve, let LOs to lead the process.
 The class space influences behaviours. The space in the training room can help to redefine how you implement LOs throughout the course.
