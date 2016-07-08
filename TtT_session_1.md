@@ -2,13 +2,14 @@
 
 ## Session 1: Review of learning principles and how they apply to training
  
- * Terminology used in learning; 
- * Learning objectives and outcomes;
- * How learning works: research-based principles of learning and their implications for teaching practice;
- * What is formal and non-formal learning?
- * Relevant models from cognitive science;
- * Cognitive load.
+ * [Terminology used in learning;](#term)
+ * [Learning objectives and outcomes;](#learning)
+ * [How learning works: research-based principles of learning and their implications for teaching practice;](#works)
+ * [What is formal and non-formal learning?](#formal)
+ * [Relevant models from cognitive science;](#relevant)
+ * [Cognitive load.](#cognitive)
 
+<a name="term"></a>
  ####Terminology used in learning
 Most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf).
 
@@ -31,6 +32,7 @@ Most definitions are taken from the [Glossary of Online Learning Terms](http://t
 * **VIRTUAL CLASSROOM**: The virtual classroom refers to a digital classroom learning environment that takes place over the Internet rather than in a physical classroom. It is implemented through software that allows an instructor and students to interact.
 * **WEB-BASED TRAINING (WBT)**: WBT refers to all types of digital instruction in which the learning material is presented via the Internet.
 
+<a name="learning"></a>
 ####Learning objectives and outcomes
 
 **Bloom's Taxonomy of Educational Objectives (1956) - Cognitive Skills**: A group of educators, led by Benjamin Bloom, identified a hierarchy of six categories of cognitive skills: knowledge, comprehension, application, analysis, synthesis and evaluation.  As students learn, they start with the knowledge level and progress through the hierarchy.  Thus, advanced courses should include skills at a higher level than introductory or basic skills courses.  Below you will find a web-resource as well as a list of measurable verbs to assist you in writing course objectives and assess learning outcomes.
@@ -63,7 +65,7 @@ Source: [List of Measurable Verbs Used to Assess Learning Outcomes ](https://www
 |Evaluation|Do you agree with the actions ...? with the outcomes ...? What is your opinion of ...? How would you prove ...? disprove ...? Can you assess the value or importance of ...? Would it be better if ...? Why did they (the character) choose ...? What would you recommend ...? How would you rate the ...? What would you cite to defend the actions ...? How would you evaluate ...? How could you determine ...? What choice would you have made ...? What would you select ...? How would you prioritize ...? What judgment would you make about ...? Based on what you know, how would you explain ...? What information would you use to support the view ...? How would you justify ...? What data was used to make the conclusion ...? Why was it better that ...? How would you prioritize the facts ...? How would you compare the ideas ...? people ...?|
 Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/learning-resources/articles-books/best-practice/goals-objectives/writing-objectives)
 
-
+<a name="works"></a>
 ####How learning works: research-based principles of learning and their implications for teaching practice
 
  
@@ -71,23 +73,39 @@ How learning works: Seven research-based principles for smart teaching
 By Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer
 ISBN: 978-0-470-48410-4
 
-See also: [The Eberly Center for Teaching Excellence and Educational Innovation ](http://www.cmu.edu/teaching/)"Learning results from what the student does and thinks and only from what the student does and thinks. The teacher can advance learning only by influencing what the student does to learn" (H.A. Simon1 )What is learning?- Learning is not a product but a process occurring in the mind. As such, we can only infer that it has occurred from students' products or performance- Learning involves change in knowledge, beliefs, behaviours, or attitudes- Learning is not something done to students, but rather something students themselves do.
+See also: [The Eberly Center for Teaching Excellence and Educational Innovation ](http://www.cmu.edu/teaching/)
+
+"Learning results from what the student does and thinks and only from what the student does and thinks. The teacher can advance learning only by influencing what the student does to learn" (H.A. Simon1 )
+
+What is learning?
+- Learning is not a product but a process occurring in the mind. As such, we can only infer that it has occurred from students' products or performance
+- Learning involves change in knowledge, beliefs, behaviours, or attitudes
+- Learning is not something done to students, but rather something students themselves do.
 
 
-The seven principles of learning from :1.	Students' prior knowledge can help or hinder learning	What does the research tell us about prior knowledge?	What teaching strategies does the research suggest?2.	How students organise knowledge influences how they learn and apply what they know3.	Students motivation determines, directs and sustains what they do learn4.	To develop mastery, students must acquire component skills, practice integrating them, and how and when to apply what they have learned5.	Goal-directed practice coupled with targeted feedback enhances the quality of students' learning6.	Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning7.	To become self-directd leaners, students must learn to monitor and adjust their approaches to learning.
-
+The seven principles of learning from :
+1.	Students' prior knowledge can help or hinder learning
+	What does the research tell us about prior knowledge?
+	What teaching strategies does the research suggest?
+2.	How students organise knowledge influences how they learn and apply what they know
+3.	Students motivation determines, directs and sustains what they do learn
+4.	To develop mastery, students must acquire component skills, practice integrating them, and how and when to apply what they have learned
+5.	Goal-directed practice coupled with targeted feedback enhances the quality of students' learning
+6.	Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning
+7.	To become self-directd leaners, students must learn to monitor and adjust their approaches to learning.
+<a name="formal"></a>
 ####What is formal and non-formal learning?
 
 PEDRO
-
+<a name="relevant"></a>
 ####Relevant models from cognitive science
 
 ALLEGRA: Mention Learning styles
-
+<a name="cognitive"></a>
 ####Cognitive load
 ALLEGRA
 PEDRO
 
-
+<a name="group"></a>
 ##Group activity
 
