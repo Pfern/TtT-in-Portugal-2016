@@ -35,6 +35,9 @@ Most definitions are taken from the [Glossary of Online Learning Terms](http://t
 <a name="learning"></a>
 ####Learning objectives and outcomes
 
+http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes
+
+
 **Bloom's Taxonomy of Educational Objectives (1956) - Cognitive Skills**: A group of educators, led by Benjamin Bloom, identified a hierarchy of six categories of cognitive skills: knowledge, comprehension, application, analysis, synthesis and evaluation.  As students learn, they start with the knowledge level and progress through the hierarchy.  Thus, advanced courses should include skills at a higher level than introductory or basic skills courses.  Below you will find a web-resource as well as a list of measurable verbs to assist you in writing course objectives and assess learning outcomes.
 
 
