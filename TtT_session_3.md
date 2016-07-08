@@ -2,19 +2,19 @@
 
 ## Session 3: Session, course, and materials design
 
-* Training session design and plan;
-* From session to course design;
-* Training rooms for Bioinformatics, Reproducibility of training environments;
-* Training materials: designing, producing, delivering;
-* Training materials: Archival; Sharing; Making re-use possible;
-* Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
-* Preparatory steps for training delivery;
+* [Training session design and plan;](#sessions)
+* [From session to course design;](#design)
+* [Training rooms for Bioinformatics, Reproducibility of training environments;](#rooms)
+* [Training materials: designing, producing, delivering;](#mat1)
+* [Training materials: Archival; Sharing; Making re-use possible;](#mat1)
+* [Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.](#mat1)
+* [Preparatory steps for training delivery;](#preparatory)
 
-
+<a name="sessions"></a>
 ### Training session design and plan;
-
+<a name="design"></a>
 ### From session to course design;
-
+<a name="rooms"></a>
 ### Training rooms for Bioinformatics, Reproducibility of training environments;
 
 PEDRO
@@ -39,15 +39,15 @@ The working environment for learners should be entirely reproducible. First, ins
 
 
 
-
+<a name="mat1"></a>
 ### Training materials: designing, producing, delivering;
 
-
+<a name="mat2"></a>
 ### Training materials: Archival; Sharing; Making re-use possible;
 PEDRO
 ALLEGRA
-
+<a name="mat3"></a>
 ###  Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
-
+<a name="preparatory"></a>
 ### Preparatory steps for training delivery;
 PEDRO
