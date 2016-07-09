@@ -13,8 +13,9 @@
 <a name="term"></a>
 
 ###Terminology used in learning
+
 Most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf).
-=======
+
 ####Terminology used in learning
 
 Terminology used in learning is far from standardised. The several branches of the learning community have adopted different variants and occasionlly re-use terms in different contexts with slightly different meaning. Here we try to offer sets of definitions that will help you to survive.
@@ -38,9 +39,7 @@ In the following list, most definitions are taken from the [Glossary of Online L
 * **INSTRUCTOR LED TRAINING (ILT)**: ILT typically refers to providing instruction in a classroom environment where the instructor and learners are together at the same time and in the same physical location.
 * **LEARNING OBJECTIVES**: Learning objectives describe the goals and intentions of the instructor who teaches the course. They state the purpose and goals of a session or of the course.
 * **LEARNING OUTCOMES**: A Learning Outcome is an outcome statement that captures specifically what knowledge, skills, attitudes learners should be able to exhibit following instruction.
-=======
 * **INSTRUCTOR LED TRAINING (ILT)**: ILT typically refers to providing instruction in a classroom environment where the instructor and learners are together at the same time and in the same physical location.
->>>>>>> 73fb610a2771d4ba0424b8fa335b328889e5cc09
 * **MOBILE LEARNING**: Learning that takes place on a hand-held device, such as a mobile phone, that can take place anytime and anywhere.
 * **MULTIMEDIA**: Multimedia refers to the presentation of information and instruction through a combination of graphics, audio, text, or video. Multimedia instruction is often interactive.
 * **ONLINE LEARNING**: The term online learning is often used synonymously with eLearning. It is an umbrella term that includes any type of learning accomplished on a computer and usually over the Internet.
@@ -57,8 +56,7 @@ In the following list, most definitions are taken from the [Glossary of Online L
 --- 
 > Source: [Atherton J S (2013) Learning and Teaching; Objectives](http://www.learningandteaching.info/teaching/objectives.htm#ixzz4DtSAL2pi)
 - Under Creative Commons License: Attribution Non-Commercial No Derivatives
-
-
+>
 --- 
 
 **Aims** are broad statements of what learning the instructor hopes to generate. The **aim** is the point of the whole thing. As such, even hard-liners concede that it can be fairly vague, and non-behavioural terms, such as “understand”, and “appreciate” or “develop” are rather reluctantly accepted. The Aim is almost certainly more than the sum of the Objectives, and regardless of what many people say, the Aim is what matters. It is the End, and all the rest is just Means.
@@ -81,7 +79,6 @@ In the following list, most definitions are taken from the [Glossary of Online L
 <a name="bloom"></a>
 ###The Bloom's six categories of cognitive skills
 
-=======
 ####Learning objectives and learning outcomes
 
 These two terms are often used interchangeably by the community. Even worse, they are often abbreviated by the acronym (LO), thus introducing even more ambiguity. In our opinion there is no need. Objectives (aims) and Outcomes (results) may overlap, but are not genuinely the same.
@@ -113,7 +110,6 @@ assessment process in the course.
 Adapted from http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes
 
 
->>>>>>> 73fb610a2771d4ba0424b8fa335b328889e5cc09
 **Bloom's Taxonomy of Educational Objectives (1956) - Cognitive Skills**: A group of educators, led by Benjamin Bloom, identified a hierarchy of six categories of cognitive skills: knowledge, comprehension, application, analysis, synthesis and evaluation.  As students learn, they start with the knowledge level and progress through the hierarchy.  Thus, advanced courses should include skills at a higher level than introductory or basic skills courses.  Below you will find a web-resource as well as a list of measurable verbs to assist you in writing course objectives and assess learning outcomes.
 
 ####From taxonomy to verbs…
@@ -166,12 +162,7 @@ See also: [The Eberly Center for Teaching Excellence and Educational Innovation 
 - Learning involves change in knowledge, beliefs, behaviours, or attitudes
 - Learning is not something done to students, but rather something students themselves do.
 
-
-<<<<<<< HEAD
 **The seven principles of learning**:
-=======
-The seven principles of learning:
->>>>>>> 73fb610a2771d4ba0424b8fa335b328889e5cc09
 
 - **Principle P1**:	Students' prior knowledge can help or hinder learning
 	What does the research tell us about prior knowledge?
@@ -193,20 +184,16 @@ The seven principles of learning:
 - **Strategy S5**: Establish a supportive class climate (P3, P6). Learn and use learners' names and encourage them to interact with you in and out the course. Collect anonymous learner feedback and investigate and respond to any complaints related to class climate.
 
 **See also**: [Brent R and Felder RM (2011)](docs/how_learning_works_thoughts.pdf)
-=======
-2.	How students organise knowledge influences how they learn and apply what they know
-3.	Students motivation determines, directs and sustains what they do learn
-4.	To develop mastery, students must acquire component skills, practice integrating them, and how and when to apply what they have learned
-5.	Goal-directed practice coupled with targeted feedback enhances the quality of students' learning
-6.	Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning
-7.	To become self-directd leaners, students must learn to monitor and adjust their approaches to learning.
 
->>>>>>> 73fb610a2771d4ba0424b8fa335b328889e5cc09
+1.	How students organise knowledge influences how they learn and apply what they know
+2.	Students motivation determines, directs and sustains what they do learn
+3.	To develop mastery, students must acquire component skills, practice integrating them, and how and when to apply what they have learned
+4.	Goal-directed practice coupled with targeted feedback enhances the quality of students' learning
+5.	Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning
+6.	To become self-directd leaners, students must learn to monitor and adjust their approaches to learning.
 
 <a name="formal"></a>
 ###What is formal and non-formal learning?
-
-PEDRO
 
 Reference source http://www.oecd.org/edu/skills-beyond-school/recognitionofnon-formalandinformallearning-home.htm
 
@@ -236,7 +223,6 @@ Please bear in mind that we are speaking about educating ADULTS. This is importa
 Reference: “The Adult Learner”, Malcom Knowles,ElwoodHolton & Richard Swanson, 7th ed 2011
 
 <a name="relevant"></a>
-<<<<<<< HEAD
 ###Relevant models from cognitive science
 
 ####Kolb's learning styles
@@ -336,15 +322,6 @@ Ref: "Knowing Knowledge”, George Siemens 2006, http:www.elearnspace.org/Knowin
 
 Connectivism is at the root of many present movements in learning, sometimes in a silent way (for example the Massive Open Online Courses also known as the MOOCs). 
 For a large number of reasons that we can - and should - discuss at length, connectivism is the standpoint that we find most suitable to support most of the design and implementation decisions in what concerns the training courses that we are concentrating on. 
-
-<a name="cognitive"></a>
-
-####Cognitive load
-ALLEGRA
-PEDRO
-
-<a name="group"></a>
->>>>>>> 73fb610a2771d4ba0424b8fa335b328889e5cc09
 
 <a name="cognitive"></a>
 ###Cognitive load

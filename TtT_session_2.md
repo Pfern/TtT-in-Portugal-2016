@@ -50,6 +50,26 @@ Discuss it in pairs and write down which characteristics you think a good traine
 
 ![The Goblet skills matrix for trainers](fig/goblet_skills_matrix.jpg)
 
+>####Communication skills
+>*Verbal communication skills* - able to deliver information orally in a clear manner that is understood by trainees.
+>*Written communication skills* - providin written information eg handouts, at the correct level for trainees and in appropriate format
+>*Presentation skills* - producing suitable slide-sets for lecture-style sessions; presenting complex information in an accessible manner
+>
+>####Expertise and knowledge
+>*Subject area knowledge* - having knowledge / expertise in a specific subject
+>*User application awareness* - understanding how a learner will apply the information "How will this analysis benefit my work?"
+>*Knowledge of training methodology* - awareness of individual learning styles and basic pedagogy
+>
+>####Planning and Management
+>*Session planning* - able to define the requirements for a single session; be able to plan appropriate activities based on objectives of session and time available;
+>*Curriculum planning* - organising a balanced course; clear definitions of target group and course outcomes; appropriate mix of theory and practice;
+>*Event management* - "everything else" around the science in a course eg appropriate breaks, running times, networking opportunities.
+>
+>####Learner engagement
+>*Flexibility in delivery* - adapting a session /  course based on real-time in class feedback;
+>*Empathy with learners* - recognising how learners are engaging with the subject; drawing learners in to the learning opportunity presented;
+>*Understanding / knowledge of learners* - understanding learners' requirements from the course.
+
 <a name="motivation"></a>
 ####Motivation and demotivation
 
@@ -58,7 +78,7 @@ In general terms, as an instructor, if you feel that you need to motivate learne
 You should identify factors that may demotivate your audience and build plans to avoid them. Factors that relate to delivery format are a particular concern, as they can ruin training that has been carefully built, content-wise. Lengthy lectures, over-crowded slides, lack of materials to follow-up are good examples. 
 
 ---
-> The lesson on [Motivation and Demotivation]*(xxxx)* from the [Software/Data Carpentry Instructor training]*(xxxxx)* is a very interesting reading on the topic. Here is a short extract:
+> The lesson on [Motivation and Demotivation](http://swcarpentry.github.io/instructor-training/19-motivation/) from the [Software/Data Carpentry Instructor training](http://swcarpentry.github.io/instructor-training/) is a very interesting reading on the topic. Here is a short extract:
 > 
 > ###Things that an instructor shouldn't do in a course 
 
@@ -69,7 +89,7 @@ You should identify factors that may demotivate your audience and build plans to
 > - Pretend to know more than you do. People will actually trust you more if you are frank about the limitations of your knowledge, and will be more likely to ask questions and seek help.
 > - Use the J word ("just"). This signals the learner that the instructor thinks their problem is trivial and by extension that they therefore must be stupid for not being able to figure it out.
 > 
-> From: [Motivation - Software/Data Carpentry Instructor training]*(xxxxx)* 
+> From: [Motivation - Software/Data Carpentry Instructor training](http://swcarpentry.github.io/instructor-training/19-motivation/)
 > 
 ---
 
@@ -104,10 +124,10 @@ Games should be designed/chosen accurately and have specific goals, should not l
 Possible games are:
 
 * **Throw props to recap/rehearse:** Make a list of concepts/keywords and write it on the whiteboard (or a flipchart). You may also have cards stuck on the wall of the classroom with terms written on them. Throw a light and soft object to a participant, who will have catch the object, stand up, pick a term from the list and explain its meaning (or usage) in a few sentences (not more than 20-30 seconds). After the explanation, the participant will throw the object to another participant. Continue until the end of the list.
-* **Mimicry**. Make two groups. One person from each group will mimic concepts/keywords (e.g. Python commands). The rest of the group will guess the mimicked concept/keyword. The group employing less time to guess the correct concept/keyword, will get one point. In principle, this should be repeated for each component of the group. This game can also be done without splitting the audience in two groups. 
-* **Asking (and answering) questions to each other:** This activity, should the venue and the weather allow it, would be better carried out in outer space. Form two *concentric* circles of people facing each others. When you clap your hands, the two circles have to turn in opposite directions. A second clap will stop them and each person from the outer (inner) circle will ask a question to the person before him/her and belogning to the inner (outer) circle. Give 45 secs to answer, then clap again your hands to make people move and again to stop them. When they stop (ensure that facing pairs have changed), people from the inner (outer) circle will ask questions and those from the outer  (inner) circle will answer. Repeat for 4-6 questions (and answers).
+* **Mimicking**. Make two groups. One person from each group will mimic concepts/keywords (e.g. Python commands). The rest of the group will guess the mimicked concept/keyword. The group employing less time to guess the correct concept/keyword, will get one point. In principle, this should be repeated for each component of the group. This game can also be done without splitting the audience in two groups. 
+* **Asking (and answering) questions to each other:** This activity, should the venue and the weather allow it, would be better carried out in outer space. Form two concentric circles of people facing each others. When you clap your hands, the two circles have to turn in opposite directions. A second clap will stop them and each person from the outer (inner) circle will ask a question to the person before him/her and belogning to the inner (outer) circle. Give 45 secs to answer, then clap again your hands to make people move and again to stop them. When they stop (ensure that facing pairs have changed), people from the inner (outer) circle will ask questions and those from the outer  (inner) circle will answer. Repeat for 4-6 questions (and answers).
 * **Games to introduce algorithms and/or the logic of programming (i.e., simple but accurate and very specific instructions)**. *Game 1*: divide the class into two groups. Each group will draw a simple geometrical figure and write specific istructions to draw the figure. Groups exchange instructions and try to draw the other group's figure based on the instructions received.
-*Game 2*: One person (could also be the instructor) will stand *bendata* in a corner (or at the back) of the classroom. Following instructions of participants, he or she will have to walk to the opposite corner (or the front) of the classroom, without hitting (*andare a sbattere*) tables, chairs, etc.
+*Game 2*: One person (could also be the instructor) will stand blindfolded in a corner (or at the back) of the classroom. Following instructions of participants, he or she will have to walk to the opposite corner (or the front) of the classroom, without bumping into tables, chairs, etc.
 
 
 <a name="closed"></a>
@@ -183,17 +203,36 @@ http://com.msu.edu/Students/Academic_Guidance/long_term_retention_recall.pdf
 
 <a name="priming"></a>
 ####Priming
-PEDRO
+...
 
  <a name="self"></a>
 ####Self-confidence and usage independence
-PEDRO
 
+...
+
+---
 <a name="carpentry"></a>
-####Carpentry teaching practices ()
-Very effective teaching practices are described in the [Teaching practices lesson] (http://swcarpentry.github.io/instructor-training/15-practices/) from the [Software/Data Carpentry Instructor training] *(xxx)* 
+>####Carpentry teaching practices
+>Very effective teaching practices are described in the [Teaching practices lesson] (http://swcarpentry.github.io/instructor-training/15-practices/) from the [Software/Data Carpentry Instructor training](http://swcarpentry.github.io/instructor-training). 
 
-*Here is a short extract: ALLEGRA*
+>Here is a short extract: 
+
+>**Sticky notes**:
+We give each learner two sticky notes of different colors, e.g., red and green. These can be held up for voting, but their real use is as status flags. If someone has completed an exercise and wants it checked, they put the green sticky note on their laptop; if they run into a problem and need help, the put up the red one. This is better than having people raise their hands because: 
+
+>* it’s more discreet (which means they’re more likely to actually do it), 
+* they can keep working while their flag is raised, and * the instructor can quickly see from the front of the room what state the class is in.
+
+
+>**Minute cards**:
+We also use sticky notes as minute cards: before each coffee or meal break, learners take a minute to write one positive thing on the green sticky note (e.g., one thing they’ve learned that they think will be useful), and one thing they found too fast, too slow, confusing, or irrelevant on the red one. They can use the red sticky note for questions that haven’t yet been answered. It only takes a few minutes to cluster these, and allows the instructors to adjust to learners’ interests and speed.
+
+>**One up, one down**:
+We frequently also ask for summary feedback at the end of each day. The instructors ask the learners to alternately give one positive and one negative point about the day, without repeating anything that has already been said. This requirement forces people to say things they otherwise might not: once all the “safe” feedback has been given, participants will start saying what they really think.
+
+>Minute cards are anonymous; the alternating up-and-down feedback is not. Each mode has its strengths and weaknesses, and by providing both, we hope to get the best of both worlds.
+>
+---
 
 <a name="wrap"></a>
 ####The role of wrap-up sessions
@@ -203,7 +242,7 @@ In a course lasting more than one day, the wrap-up of one entire day, can be car
 If you mean to use this type of wrap-up, it is important to inform the participants at the beginning of the course about your intention: many people don't like to be exposed and may feel uncomfortable if not irritated by knowing they have to do something they don't like with short or no notice. 
 Usually they accept talking in front of the class if they have time to adapt to this idea *and* you explain them what are their benefits in doing this.
 
-Feedback at the end of each session should be quick and simple. One example approach is the five *fist* test, which is described in the [session on assessment]*(./TtT_session_4)*.  
+Feedback at the end of each session should be quick and simple. One example approach is the fist of five voting, which is described in the [session on assessment](./TtT_session_4).  
 
 
 ##Challenges: discussion

@@ -50,8 +50,6 @@ Training materials developed ahead for a specific training event have a survival
 
 Designing and producing quality training materials (presentations, exercises, support texts, instructions, worked results, etc.) involve a lot of work. It is a pity not to make specific efforts to create them with autonomy (self sufficiency) in mind. They should be properly stored  (and backed-up) and made available in referenceable public repositories. 
 
-
-ALLEGRA
 <a name="mat3"></a>
 ###  Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
 A general policy for re-use is not yet in place. However, with sharing principles in mind, GOBLET (the Global Organisation for Bioinformatics Learning Education and Training)  has pioneered a public repository within a training Portal in 2014  http://mygoblet.org/training-portal where a significant amout of work has already been deposited.
@@ -71,8 +69,7 @@ http://sdwfrost.github.io/mevr/         (gitbook)
 
 
 <a name="preparatory"></a>
-### Preparatory steps for training delivery;
-PEDRO
+### Preparatory steps for training delivery
 
 It may be useful to consider adapting from Pedro's checklists:
 

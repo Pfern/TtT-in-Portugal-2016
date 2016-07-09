@@ -32,15 +32,16 @@ to be continued .... SEE QUESTIONNAIRE [here](http://mazur.harvard.edu/sentFiles
 
 <a name="diagnostic"></a>
 ### Diagnostic questionnaires
-ALLEGRA
+...
+
 <a name="design"></a>
 ### Design of MCQs with distractors
 <a name="assessment"></a>
 ### Assessment of training quality, participant and instructor performance;
-PEDRO
+...
+
 <a name="systematic"></a>
 ### Systematic feedback;
-PEDRO
 
 In a training course, getting feedback at the end of the event is necessary, as the participants may (should) have developed encompassing, integrated views. However, it is vastly insufficient. Questioning participants frequently diring training provision is rich with information and has very interesting effects. But when should this happen? And how can it be induced so that, as a drug, has as many positive effects  and as low adverse effects as possible?
 
@@ -50,15 +51,45 @@ How? It should be very focused and expedite in execution. The instructor should 
 
 This is INSTANT FEEDBACK. 
 
-Several methods have been tested, some of the using technology (Clickers, Socrative, Learning Catalytics) or not (the fifve fingers method). The choice is made according to thae availability of the means and how engaging the audience finds it.
+Several methods have been tested, some of the using technology (Clickers, Socrative, Learning Catalytics) or not (the fist of five method). The choice is made according to the availability of the means and how engaging the audience finds it.
+
+---
+>###Fist or Five Feedback
+>
+>by Allegra Via, Kristian Rother and Pedro Fernandes
+>From: [Academis by Kristian Rother](http://www.academis.sites.djangoeurope.com/blog/posts/recipe-fist-or-five/).
+>
+>
+>How well was your explanation understood? How useful was an exercise? Is your class enthusiastic or frustrated? During a one-week programming course at IGC, Portugal,  we asked after each training module:
+
+>"How much did you learn during the lesson? Please show one to five fingers. Raise your hands!"
+>
+>Then we counted how often each number of fingers occurred. This way, the trainees felt more encouraged to provide critical feedback than if you would simply ask:
+
+>"did you understand it or not?"
+
+>Not necessarily do trainees utilize all five fingers. Our course participant Patricia commented:
+
+>"It is a good feedback and it is immediate. Although I feel sometimes a little bit shy to express my opinion."
+
+>The method needs seconds to execute and no preparation, which is a plus for the teacher. But trainees benefit as well. Our course participant Rita commented:
+
+>"I like it because it makes me think. It forces me to review and figure out whether I understood the subject or not and how much. It also shows you are interested."
+
+>This feedback is not an objective control of students' knowledge; it gives rather an indication of how confident they feel at a given point. You can try to suggest examples what a zero or five means, as in the linked article. The fist or five technique has also been recommended as a voting procedure to reach consensus in group discussions. You may test the method after giving a presentation to evaluate yourself.
+
+>The numbers we accumulated over more than a dozen sessions using one consistent method helped us to keep the course on track. The counting itself needed a bit of exercise to do it quickly. When we used the Fist or Five technique for the first time in 2012 with a group of 20 people, we asked for each number from zero to five separately This took a bit longer. For us, the main value of the Fist or Five technique is that it is easy to execute, it is quantitative, it is not stressful, it is immediate and can be repeated many times during a course. We hope you will see lots of 'high fives' in your next course!
+
+---
+
 
 BENEFITS WORTH NOTICING:
+
 * For the LEARNER. Carefully implemented instant feedback obliges the learner to introspect, to answer himself first (do I really know this? How easy ist it for me to do this by myself?). With this, it becomes clear that he is made aware of his own progress and this is the smartes way to gain self-confidence. When questioned at the end-of the course questionnaire, he is much more able to make encompassing self assessments
 * For the INSTRUCTOR. Multiple ways of checking if what has just been done was effective, as a result of the quality of the question. Useful assessment of the quality of the materials and the performance of the instructor. A way of identifying learners that may be dragging behind and may need more attention. A way of identifying learners that are getting ahead o the others in the group, and can become more active, receive harder assignments, help their colleagues, etc. A way to judge wheather the pace of training delivery is correctly chosen for the audience.
 
 <a name="short"></a>
 ### (Short and long term) Post-course feedback
-PEDRO
 
 Long term assessments are rather difficult. First becaulse learners move and become more diffuicult to cantact with. Secondly because they forget, as all of us do. In this case they forget what worked for them as hidden details. Those may matter because what we are looking for, here, is the aseesment of impacts that endure.
 
