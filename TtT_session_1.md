@@ -24,7 +24,7 @@ Before we do that, let us propose a minimal subset of specific terms, by choice,
 Here we offer lists of definitions that seem useful. Inevitably, for the reasons isted above, you will find inconsistencies here  and there. You will need to learn how to deal with the situation.
 
 In the following list, most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf). 
->>>>>>> 73fb610a2771d4ba0424b8fa335b328889e5cc09
+
 
 * **ACTIVE LEARNING**: A process whereby learners are actively engaged in the learning process, rather than "passively" absorbing lectures. Active learning involves reading, writing, discussion, and engagement in solving problems, analysis, synthesis, and evaluation. Active learning often involves cooperative learning (from the [Glossary of education terms on Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_education_terms)). 
 * **ASYNCHRONOUS LEARNING**: When learners participate in an online learning course at different times. This might also be called eLearning or web-based training (WBT). Asynchronous learning allows learners to go through a course at their own pace and on their own schedule.
