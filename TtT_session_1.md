@@ -312,7 +312,7 @@ Learning activities: main thing to remember:
 - For practical sessions – check on where the group as a whole is, or have demonstrators who can move around the room
  
 
-####Relevant models from cognitive science
+####Learning Theories
 
 Learning is supported by a load of theories, some of them developed by schools of thought and large groups of enthusiastic followers. In the context of our session it may matter to recall some major points about them. It matters to say that most theories have been developed havin the child learner in mind, so some aspects that reflectbthis bias will not apply to our activity.
 
