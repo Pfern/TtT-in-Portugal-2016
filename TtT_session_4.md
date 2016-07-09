@@ -44,3 +44,12 @@ PEDRO
 ### (Short and long term) Post-course feedback
 PEDRO
 
+Long term assessments are rather difficult. First becaulse learners move and become more diffuicult to cantact with. Secondly because they forget, as all of us do. In this case they forget what worked for them as hidden details. Those may matter because what we are looking for, here, is the aseesment of impacts that endure.
+
+Interviewing former course participants would be a possibility but it requires a lot of time. Sending them short questions by e-mail has worked  with a yeald of about 30%, so unless you are tarining at least several hundreds of people it is likely that you end-up with a very small number of answers. Currently we see some home in the usage of social networks to collect valuable data.
+
+Critical appraisals often happen is casual conversations. One should take notes to record them.
+
+Example: Pedro Fernandes, Pooja Jain, Catarina Moita Training Experimental Biologists
+in Bioinformatics, Adv Bioinformatics. 2012;2012:672749. doi:
+10.1155/2012/672749. Epub 2012 Jan 31. (Open Access)
