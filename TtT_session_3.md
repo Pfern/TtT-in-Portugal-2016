@@ -37,17 +37,43 @@ Presently, playing with relatively demanding software in local machines is still
 The working environment for learners should be entirely reproducible. First, inside the training room, the environment must be the same for everybody. Secondly, the learners should feel that they can reproduce the same  environment when they go home after a training event. Again, virtualised environments can be a solution. However, the training roo physical facilities will not travel, so one must think about what will and will not work in a home or a lab environment and at least explain what can be done.
 
 
-
-
 <a name="mat1"></a>
 ### Training materials: designing, producing, delivering;
+
+
 
 <a name="mat2"></a>
 ### Training materials: Archival; Sharing; Making re-use possible;
 PEDRO
+
+Training materials developed ahead for a specific training event have a survival issue. If they reflect too much of a conne ction to other parts of the event they tend to loose autonomy. It also happens that true autonomy is not there if the materials are used out of the original environment, for example slides may not work without a narration (audio).
+
+Designing and producing quality training materials (presentations, exercises, support texts, instructions, worked results, etc.) involve a lot of work. It is a pity not to make specific efforts to create them with autonomy (self sufficiency) in mind. They should be properly stored  (and backed-up) and made available in referenceable public repositories. 
+
+
 ALLEGRA
 <a name="mat3"></a>
 ###  Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
+A general policy for re-use is not yet in place. However, with sharing principles in mind, GOBLET (the Global Organisation for Bioinformatics Learning Education and Training)  has pioneered a public repository within a training Portal in 2014  http://mygoblet.org/training-portal where a significant amout of work has already been deposited.
+
+The need for referencing training materials in general, in the context of ELIXIR, has led to the development of TeSS, a training e-support system http://elixir-uk.org/elixir-uk-training-sectors/elixir-uk-training-platform. This is all about discovering, packaging and linking training materials, i.e. trying to deal with the excessive fragmentation of the materials, rather than providing a storage repository for them.
+
+Many people involved inthe production of training materials are finding it useful to adopt collaborative platforms to support their activity. Git and GitHub, on which this resource is deveoped and served, is not a de facto standard, but presently it seems the smartest choice, especiually because updating is left in the hands of the authors. The extended capabilties to produce websites, e-books, etc. are also seen as strenths. 
+
+Examples from GTPB:
+
+http://mygoblet.org/training-portal/courses/ngs-data-analysis-rnaseq-chipseq    (GOBLET ENTRY)
+http://bioinformatics-core-shared-training.github.io/ndarc16/   (gitpages)
+https://github.com/sdwfrost/mevr        (repository)
+http://sdwfrost.github.io/mevr/         (gitbook)
+
+
+
+
 <a name="preparatory"></a>
 ### Preparatory steps for training delivery;
 PEDRO
+
+
+
+
