@@ -25,8 +25,9 @@ Quotes form "Peer Intruction, Getting students to think in class" by Erik Mazur 
 "the first exposure to new material comes from reading printed material before the lecture reading." 
 
 
-to be continued .... SEE QUESTIONNAIRE  IN THE PDF 
+to be continued .... SEE QUESTIONNAIRE [here](http://mazur.harvard.edu/sentFiles/Mazur_274537.pdf)
 
+(there is a copy in the docs folder)
 
 
 <a name="diagnostic"></a>
@@ -40,6 +41,21 @@ PEDRO
 <a name="systematic"></a>
 ### Systematic feedback;
 PEDRO
+
+In a training course, getting feedback at the end of the event is necessary, as the participants may (should) have developed encompassing, integrated views. However, it is vastly insufficient. Questioning participants frequently diring training provision is rich with information and has very interesting effects. But when should this happen? And how can it be induced so that, as a drug, has as many positive effects  and as low adverse effects as possible?
+
+When? Ideally at natural breakpoints such as ending an exercise, shifting to a different subject and right after a wrap-up session.
+
+How? It should be very focused and expedite in execution. The instructor should think of a clearly stated question that has a binary (Yes/no) or garaded (0-5) response. Ideally the isntructor should write the question and display it, ensuring that everybody knows what the question is at the same time and is aware of what the answering method is. Then, the isntructor collects the answers and records trhem in a tally. 
+
+This is INSTANT FEEDBACK. 
+
+Several methods have been tested, some of the using technology (Clickers, Socrative, Learning Catalytics) or not (the fifve fingers method). The choice is made according to thae availability of the means and how engaging the audience finds it.
+
+BENEFITS WORTH NOTICING:
+* For the LEARNER. Carefully implemented instant feedback obliges the learner to introspect, to answer himself first (do I really know this? How easy ist it for me to do this by myself?). With this, it becomes clear that he is made aware of his own progress and this is the smartes way to gain self-confidence. When questioned at the end-of the course questionnaire, he is much more able to make encompassing self assessments
+* For the INSTRUCTOR. Multiple ways of checking if what has just been done was effective, as a result of the quality of the question. Useful assessment of the quality of the materials and the performance of the instructor. A way of identifying learners that may be dragging behind and may need more attention. A way of identifying learners that are getting ahead o the others in the group, and can become more active, receive harder assignments, help their colleagues, etc. A way to judge wheather the pace of training delivery is correctly chosen for the audience.
+
 <a name="short"></a>
 ### (Short and long term) Post-course feedback
 PEDRO

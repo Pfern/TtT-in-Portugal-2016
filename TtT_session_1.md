@@ -310,8 +310,9 @@ Learning activities: main thing to remember:
 - People can only concentrate for short periods – often 15 – 20 minutes at most, before it drops
 - For lecture sessions – intersperse with activities eg questions, short problems, discussion points
 - For practical sessions – check on where the group as a whole is, or have demonstrators who can move around the room
-=======
-####Relevant models from cognitive science
+ 
+
+####Learning Theories
 
 Learning is supported by a load of theories, some of them developed by schools of thought and large groups of enthusiastic followers. In the context of our session it may matter to recall some major points about them. It matters to say that most theories have been developed havin the child learner in mind, so some aspects that reflectbthis bias will not apply to our activity.
 
@@ -335,8 +336,6 @@ Ref: "Knowing Knowledge”, George Siemens 2006, http:www.elearnspace.org/Knowin
 
 Connectivism is at the root of many present movements in learning, sometimes in a silent way (for example the Massive Open Online Courses also known as the MOOCs). 
 For a large number of reasons that we can - and should - discuss at length, connectivism is the standpoint that we find most suitable to support most of the design and implementation decisions in what concerns the training courses that we are concentrating on. 
-
-ALLEGRA: Mention Learning styles (en passant...)
 
 <a name="cognitive"></a>
 
