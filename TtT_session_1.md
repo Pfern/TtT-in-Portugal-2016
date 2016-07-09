@@ -139,10 +139,57 @@ The seven principles of learning:
 ####What is formal and non-formal learning?
 
 PEDRO
+
+Reference source http://www.oecd.org/edu/skills-beyond-school/recognitionofnon-formalandinformallearning-home.htm
+
+We quote:
+    Formal learning is always organised and structured, and has learning objectives. From the learner’s standpoint, it is always intentional: i.e. the learner’s explicit objective is to gain knowledge, skills and/or competences. Typical examples are learning that takes place within the initial education and training system or workplace training arranged by the employer. One can also speak about formal education and/or training or, more accurately speaking, education and/or training in a formal setting. This definition is rather consensual.
+    
+    Informal learning is never organised, has no set objective in terms of learning outcomes and is never intentional from the learner’s standpoint. Often it is referred to as learning by experience or just as experience. The idea is that the simple fact of existing constantly exposes the individual to learning situations, at work, at home or during leisure time for instance. This definition, with a few exceptions (see Werquin, 2007) also meets with a fair degree of consensus.
+    
+    Mid-way between the first two, non-formal learning is the concept on which there is the least consensus, which is not to say that there is consensus on the other two, simply that the wide variety of approaches in this case makes consensus even more difficult. Nevertheless, for the majority of authors, it seems clear that non-formal learning is rather organised and can have learning objectives. The advantage of the intermediate concept lies in the fact that such learning may occur at the initiative of the individual but also happens as a by-product of more organised activities, whether or not the activities themselves have learning objectives. In some countries, the entire sector of adult learning falls under non-formal learning; in others, most adult learning is formal. Non-formal learning therefore gives some flexibility between formal and informal learning, which must be strictly defined to be operational, by being mutually exclusive, and avoid overlap.
+
+In this concern, a bioinformatics training course will most often be best classified as a NON_FORMAL learning instance.
+Whreas a semester course in a university would most often be classified as FORMAL and an impromptu demonstration session on RNA-seq could be better classified as INFORMAL learning.
+
+We may pragmatically think of EFFICIENT bioinformatics training provision in the following NON-FORMALway
+* It provides essentially skills, rather than deep knowledge
+* It aims at the acquisition of competences
+* It must focus on the learner (learner-centric)
+* It must guarantee that independently reproducible outcomes are obtained
+* The learners must acquire autonomy (skills usage independence)
+
+The EFFICIENCY of training can - and should - be independently assessed by the capability of reaching the desired OUTCOMES, in the context of the stated OBJECTIVES.
+
+Please bear in mind that we are speaking about educating ADULTS. This is important because adults have their interests focused of their self-improvement, and see training as a capacity-building exercise. Adults like to be respected as such, that their expectations are individually met, in an exhaustive way.
+
+Reference: “The Adult Learner”, Malcom Knowles,ElwoodHolton & Richard Swanson, 7th ed 2011
+
 <a name="relevant"></a>
 ####Relevant models from cognitive science
 
-ALLEGRA: Mention Learning styles
+Learning is supported by a load of theories, some of them developed by schools of thought and large groups of enthusiastic followers. In the context of our session it may matter to recall some major points about them. It matters to say that most theories have been developed havin the child learner in mind, so some aspects that reflectbthis bias will not apply to our activity.
+
+Behaviourism (started in the early 20th century by John Broadus Watson):
+* Learning is acquiring new behaviours by conditioning.
+* Reflex response to stimuli
+* Reward / Punishment
+* * Ref: "Psychology as the Behaviorist Views It" , 1913
+
+Cognitivism (started in 1920 by Jean Piaget):
+* Learning is based on the development of cognitive capabilities.
+* Its origin is in the "Gestalt Psychlogie"
+
+Connectivism (started in the 1980s by Stephen Downes and George Siemens):
+* Knowledge is perceived from the environment and resides in connections.
+* No agents form connections better than a learner's brain itself.
+* The instructors act as facilitators. They create the environmental conditions that allow true learning to occur.
+
+Ref: "Knowing Knowledge”, George Siemens 2006, http:www.elearnspace.org/KnowingKnowledge_LowRes.pdf
+
+
+ALLEGRA: Mention Learning styles (en passant...)
+
 <a name="cognitive"></a>
 
 ####Cognitive load
