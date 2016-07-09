@@ -5,6 +5,7 @@
  * [Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust;](#delivering)
  * [Teaching as a preformance art: promoting learner engagement;](#teaching)
  * [Motivation and demotivation;](#motivation)
+ * [Gamification;](#games)
  * [Closed loop learning delivery](#closed)
  * [Learning by doing;](#learning)
  * [Retention;](#retention)
@@ -15,8 +16,8 @@
 
 <a name="delivering"></a>
 #### Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust
-Start with learning objectives (LOs). Once you have defined what learners need to achieve, let LOs to lead the process.
-The class space influences behaviours. The space in the training room can help to redefine how you implement LOs throughout the course.
+Start with learning objectives. Once you have defined what learners need to achieve, let learning objectives lead the process.
+The class space influences behaviours. The space in the training room can help to redefine how you implement learning objectives throughout the course.
 Try to challenge yourself from more traditional, passive and instructor-led methods of teaching to more learner-centric methods that empower learners to be more engaged and involved in the process of skill development, mastery and application.
 How can you use classroom space to turn challenges into opportunities for learning?
  
@@ -24,9 +25,9 @@ While a lecture or presentation mode can be used to kick-start a session, it can
 
 Small groups, team-based exercises, and collaborative endeavours support a variety of learning modes.
 Make sure to use clear and well developed protcolos that minimise any loss of time or productivity.
-You can leverage multiple learning/teaching modes; indeed, fostering a high order of thinking skills is far more successful when students are given multiples ways to process information.  The variety of tools, twist of place to work and a range of people to network with at various intervals empower individuals.
+You can leverage multiple learning/teaching modes; indeed, fostering a high order of thinking skills is far more successful when students are given multiple ways to process information.  The variety of tools, flexibility of place to work and a range of people, including instructors, to network with at various intervals empower individuals and generate mutual trust. Provide students easier access to you (the instructor).
 
-Provide students easier access to you (the instructor).
+Try to give up the position of the "sage on the stage", to become the "guide on the side". This makes learners feel free to interact, ask questions, tell they got lost (when they are) and allows you to better understand what problems participants have,  work individually with those in need of help, and use your time to focus and (re)explain what was not well received.
 
 <a name="teaching"></a>
 ####Teaching as a preformance art: promoting learner engagement
@@ -51,11 +52,28 @@ Discuss it in pairs and write down which characteristics you think a good traine
 
 <a name="motivation"></a>
 ####Motivation and demotivation
-PEDRO
 
 In general terms, as an instructor, if you feel that you need to motivate learners you should stop and think. There must be something wrong. You may be unable to identify the reason but this should be seen as a signal not to continue. You should not need to motivate people that fall in yor hands, but if you do, you should have a strategy in place for that. Start with figuring out the level of the audience and what could grab their interest.
 
-You should identify factors that may demotivate your audience and build plans to avoid them. Factors that relate to delivery format are a particular concern, as they can ruin training that has been carefully built, content-wise. Lengthy lectures, over-crowded slides, lack of materials to follow-up are good examples. The techniques that can be used to keep motivation up in an audience are called engagement.
+You should identify factors that may demotivate your audience and build plans to avoid them. Factors that relate to delivery format are a particular concern, as they can ruin training that has been carefully built, content-wise. Lengthy lectures, over-crowded slides, lack of materials to follow-up are good examples. 
+
+---
+> The lesson on [Motivation and Demotivation]*(xxxx)* from the [Software/Data Carpentry Instructor training]*(xxxxx)* is a very interesting reading on the topic. Here is a short extract:
+> 
+> ###Things that an instructor shouldn't do in a course 
+
+> - Tell learners they are rubbish because they use Excel and/or Word don't modularize their code, etc.
+> - Repeatedly make digs about Windows and praise Linux, e.g., say that the former is for amateurs.
+> - Criticise GUI applications (and by implication their users) and describe command-line tools as the One True Way.
+> - Dive into complex or detailed technical discussion with the one or two people in the audience who clearly don't actually need to be there.
+> - Pretend to know more than you do. People will actually trust you more if you are frank about the limitations of your knowledge, and will be more likely to ask questions and seek help.
+> - Use the J word ("just"). This signals the learner that the instructor thinks their problem is trivial and by extension that they therefore must be stupid for not being able to figure it out.
+> 
+> From: [Motivation - Software/Data Carpentry Instructor training]*(xxxxx)* 
+> 
+---
+
+The techniques that can be used to keep motivation up in an audience are called engagement.
 
 Examples of techniques that you can use to promote engagement in training:
 
@@ -63,14 +81,37 @@ Examples of techniques that you can use to promote engagement in training:
 * Introduce blended multi-media materials 
 * Make frequent use of instant feedback to monitor and to induce self-assessment
 * Offer participatory stimuli (prizes, gamifications)
+* Let learners doing recaps (in the morning about the day before, at the end of sessions, etc)
+* Introduce physical exercise (e.g. at the beginning of after-lunch sessions): this is good for both physical and mental health
+* Introduce short, relaxing breaks (e.g. one minute meditation)
+* Assign tasks to groups (e.g. Python libraries) and let the groups present the result of their work
 
 
 
-ALLEGRA
+<a name="games"></a>
+####Gamification
+Using games in training may be an effective technique in many aspects.
+Games promote:
+
+* ice breaking
+* interactivity
+* networking
+* fun
+* pace discontinuity
+* relax
+
+Games should be designed/chosen accurately and have specific goals, should not last too much and shouln't be too frequent.
+Possible games are:
+
+* **Throw props to recap/rehearse:** Make a list of concepts/keywords and write it on the whiteboard (or a flipchart). You may also have cards stuck on the wall of the classroom with terms written on them. Throw a light and soft object to a participant, who will have catch the object, stand up, pick a term from the list and explain its meaning (or usage) in a few sentences (not more than 20-30 seconds). After the explanation, the participant will throw the object to another participant. Continue until the end of the list.
+* **Mimicry**. Make two groups. One person from each group will mimic concepts/keywords (e.g. Python commands). The rest of the group will guess the mimicked concept/keyword. The group employing less time to guess the correct concept/keyword, will get one point. In principle, this should be repeated for each component of the group. This game can also be done without splitting the audience in two groups. 
+* **Asking (and answering) questions to each other:** This activity, should the venue and the weather allow it, would be better carried out in outer space. Form two *concentric* circles of people facing each others. When you clap your hands, the two circles have to turn in opposite directions. A second clap will stop them and each person from the outer (inner) circle will ask a question to the person before him/her and belogning to the inner (outer) circle. Give 45 secs to answer, then clap again your hands to make people move and again to stop them. When they stop (ensure that facing pairs have changed), people from the inner (outer) circle will ask questions and those from the outer  (inner) circle will answer. Repeat for 4-6 questions (and answers).
+* **Games to introduce algorithms and/or the logic of programming (i.e., simple but accurate and very specific instructions)**. *Game 1*: divide the class into two groups. Each group will draw a simple geometrical figure and write specific istructions to draw the figure. Groups exchange instructions and try to draw the other group's figure based on the instructions received.
+*Game 2*: One person (could also be the instructor) will stand *bendata* in a corner (or at the back) of the classroom. Following instructions of participants, he or she will have to walk to the opposite corner (or the front) of the classroom, without hitting (*andare a sbattere*) tables, chairs, etc.
+
+
 <a name="closed"></a>
 ####Closed loop learning delivery
-
-PEDRO
 
 Lectures, as traditionally used in formal learning, are characterised by a unidirectional flow of information, from one instructor to N learners. Only in rare occasions is there information going back to the instructor. Moreover, the instructor is not necessarily worried about the result, i.e. if the information that is sent is sedimenting or not in the learners' brain. So, the instructor can speak for several hours in unidirectional mode.
 
@@ -96,28 +137,30 @@ In training, we also use lectures to convey information, but we make them short,
 
 Our experience suggests that there are activities that should be reduced and activities that should be carried out as much intensively as possible.
 
-**Activities the instructor should keep to a minimum**:
+**Activities and attitudes the instructor should keep to a minimum**:
 
 - lecturing
 - individual work out
-- answering questions
-- keeping monotone pace
+- providing answers before letting participants doing it
+- keeping the same pace for long time
 - using a monotone modality of content delivery (including the tone of the voice)
+- showing no enthusiasm
 
 
-**Activities the instructor should promote**:
+**Activities and attitudes the instructor should promote**:
 
 - listening
-- asking questions/challenging
+- questions asking
+- challenging learners
 - group discussions/brainstorming
 - work in pairs/groups
 - problem solving
-- peer instruction
+- peer instruction (using sticky notes, see below Carpentry teaching practices)
 - participants' interaction/neworking
 - games
 - physical exercise
 - presentations by participants
-- changing mode/pace/activity
+- mode/pace/activity frequent change
 
 
 ####Retention
@@ -136,19 +179,31 @@ Whereas in deep learning, the learner develops his own organisationa scheme/fram
 
 Short term memory (STM) has an evanescent behaviour. Repetition, as on rote learning, is maximally effective in producing long term memory (LTM), when not delivered all at once. Paced repetition combines recall with new memorisation, as typically shown in 
 http://com.msu.edu/Students/Academic_Guidance/long_term_retention_recall.pdf
+
+
 <a name="priming"></a>
 ####Priming
 PEDRO
+
  <a name="self"></a>
 ####Self-confidence and usage independence
 PEDRO
+
 <a name="carpentry"></a>
-####Carpentry teaching practices (http://swcarpentry.github.io/instructor-training/15-practices/)
-ALLEGRA
+####Carpentry teaching practices ()
+Very effective teaching practices are described in the [Teaching practices lesson] (http://swcarpentry.github.io/instructor-training/15-practices/) from the [Software/Data Carpentry Instructor training] *(xxx)* 
+
+*Here is a short extract: ALLEGRA*
+
 <a name="wrap"></a>
 ####The role of wrap-up sessions
-PEDRO
-ALLEGRA
+At the end of sessions (or a day course, or the whole course), it is important to devote a few minutes to wrap-up and collect feedback.
+Wrap-up should be carried out by participants. 
+In a course lasting more than one day, the wrap-up of one entire day, can be carried out as the first thing on the day after. The various topics of a day can be assigned to a few participants (it is advised to identify max 4/5 main topics each day and assign each to a different participant), who will stand on the stage before the class and briefly summarise what was done the day before. The instructor may decide to give the participants who have to present a bit of time to reflect and organise a bried speach. 
+If you mean to use this type of wrap-up, it is important to inform the participants at the beginning of the course about your intention: many people don't like to be exposed and may feel uncomfortable if not irritated by knowing they have to do something they don't like with short or no notice. 
+Usually they accept talking in front of the class if they have time to adapt to this idea *and* you explain them what are their benefits in doing this.
+
+Feedback at the end of each session should be quick and simple. One example approach is the five *fist* test, which is described in the [session on assessment]*(./TtT_session_4)*.  
 
 
 ##Challenges: discussion
