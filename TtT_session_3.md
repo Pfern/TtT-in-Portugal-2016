@@ -76,33 +76,47 @@ PEDRO
 
 It may be useful to consider adapting from Pedro's checklists:
 
-* To prepare a new training course
+####To prepare a new training course
 
-/ Define the main idea
-/ Define the Ideal audience
-Define pre-requisites for the participants
-Select potential instructors. One of them plays the leader role. Involve him/her in all discussions from this point on.
-Breakdown into skills and concepts needed
-for each skill {
-    state objective(s) and wite them down
-    consider exercise alternatives
-    gauge duration, tech. requirements, testing
-    pick the best suited exercise
-    design a short lecture to precede it
-    adjust timing for an ideal training slot duration
+* Define the main idea (matching a perceived need)
+* Define the Ideal Target Audience
+* Define pre-requisites for the participants
+* Select potential instructors. One of them plays the leader role. Involve him/her in all discussions from this point on.
+* Breakdown into skills and concepts needed
+* for each skill {
+    state objective(s) and wite them down / 
+    consider exercise alternatives /
+    gauge duration, tech. requirements, testing / 
+    pick the best suited exercise / 
+    design a short lecture to precede it/ 
+    adjust timing for an ideal training slot duration / 
     prepare self-assessment questions
     }
-Compose a logical sequence of slots and distribute them in a course plan timetable
-for each training day {
-    program a fist slot.
-    On the fist day, use that slot to break the ice and establish team work discipline
-    On the other days, use it for the wrap-up of the content of the eve
+* Compose a logical sequence of slots and distribute them in a course plan timetable
+* for each training day {
+    program a fist slot / 
+    On the fist day, use that slot to break the ice and establish team work discipline / 
+    On the other days, use it for the wrap-up of the content of the eve / 
     }
-Plan a final wrap-up discussion at the end of the course
-Distribute the time slots through the days of training, using duration to balance the learning effort
-Use breaks to induce periods of collective reflection
-Foresee some physical activity, a couple of walks, a deep breathing exercise, for example
-You now have a COURSE PLAN!
+* Plan a final wrap-up discussion at the end of the course
+* Distribute the time slots through the days of training, using duration to balance the learning effort
+* Use breaks to induce periods of collective reflection
+* Foresee some physical activity, a couple of walks, a deep breathing exercise, for example
+
+
+####Course deployment (face-to-face)
+
+* Prepare the workstations so that they have a uniform setups/installations.
+* Ideally, prepare and test one machine and use disk cloning to ensure uniformity.
+* Clean-up shared directories: To_Participant, From_Participant, Data, Installers
+* Check projector, lamp, dust filter, focus and color mode.
+* Check documentation that may need to be distributed in paper form
+* Check name tags for the Participants
+* Prepare a list of Participants
+* Check training  room tidyness
+* Check air conditioned, lighting
+* Check for the availability of pens and paper pads for notes
+* Check Felt Tip Markers and whiteboard
 
 
 
