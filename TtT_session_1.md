@@ -11,7 +11,7 @@
  * [Cognitive load.](#cognitive)
 
 <a name="term"></a>
-<<<<<<< HEAD
+
 ###Terminology used in learning
 Most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf).
 =======
