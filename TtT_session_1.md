@@ -190,6 +190,9 @@ Connectivism (started in the 1980s by Stephen Downes and George Siemens):
 Ref: "Knowing Knowledge”, George Siemens 2006, http:www.elearnspace.org/KnowingKnowledge_LowRes.pdf
 
 
+Connectivism is at the root of many present movements in learning, sometimes in a silent way (for example the Massive Open Online Courses also known as the MOOCs). 
+For a large number of reasons that we can - and should - discuss at length, connectivism is the standpoint that we find most suitable to support most of the design and implementation decisions in what concerns the training courses that we are concentrating on. 
+
 ALLEGRA: Mention Learning styles (en passant...)
 
 <a name="cognitive"></a>
