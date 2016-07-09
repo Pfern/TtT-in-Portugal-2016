@@ -51,7 +51,7 @@ In the following list, most definitions are taken from the [Glossary of Online L
 * **WEB-BASED TRAINING (WBT)**: WBT refers to all types of digital instruction in which the learning material is presented via the Internet.
 
 <a name="learning"></a>
-<<<<<<< HEAD
+
 ###Learning aims, objectives and outcomes
 
 --- 
