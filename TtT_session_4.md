@@ -52,8 +52,9 @@ This is INSTANT FEEDBACK.
 
 Several methods have been tested, some of the using technology (Clickers, Socrative, Learning Catalytics) or not (the fifve fingers method). The choice is made according to thae availability of the means and how engaging the audience finds it.
 
-EFFECTS WORTH NOTICING:
-* For the learner. Carefully implemented instant feedback obliges the learner to introspect, to answer himself first (do I really know this? How easy ist it for me to do this by myself?). With this, it becomes clear that he is made aware of his own progress and this is the smartes way to gain self-confidence. When questioned at the end-of the course questionnaire, he is much more able to make encompassing self assessments
+BENEFITS WORTH NOTICING:
+* For the LEARNER. Carefully implemented instant feedback obliges the learner to introspect, to answer himself first (do I really know this? How easy ist it for me to do this by myself?). With this, it becomes clear that he is made aware of his own progress and this is the smartes way to gain self-confidence. When questioned at the end-of the course questionnaire, he is much more able to make encompassing self assessments
+* For the INSTRUCTOR. Multiple ways of checking if what has just been done was effective, as a result of the quality of the question. Useful assessment of the quality of the materials and the performance of the instructor. A way of identifying learners that may be dragging behind and may need more attention. A way of identifying learners that are getting ahead o the others in the group, and can become more active, receive harder assignments, help their colleagues, etc. A way to judge wheather the pace of training delivery is correctly chosen for the audience.
 
 <a name="short"></a>
 ### (Short and long term) Post-course feedback
