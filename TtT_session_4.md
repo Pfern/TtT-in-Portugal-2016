@@ -48,6 +48,8 @@ Long term assessments are rather difficult. First becaulse learners move and bec
 
 Interviewing former course participants would be a possibility but it requires a lot of time. Sending them short questions by e-mail has worked  with a yeald of about 30%, so unless you are tarining at least several hundreds of people it is likely that you end-up with a very small number of answers. Currently we see some home in the usage of social networks to collect valuable data.
 
-Ref: Pedro Fernandes, Pooja Jain, Catarina Moita Training Experimental Biologists
+Critical appraisals often happen is casual conversations. One should take notes to record them.
+
+Example: Pedro Fernandes, Pooja Jain, Catarina Moita Training Experimental Biologists
 in Bioinformatics, Adv Bioinformatics. 2012;2012:672749. doi:
 10.1155/2012/672749. Epub 2012 Jan 31. (Open Access)
