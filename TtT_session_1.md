@@ -11,7 +11,14 @@
 
 <a name="term"></a>
 ####Terminology used in learning
-Most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf). Adaptations were introduced as necessary.
+
+Terminology used in learning is far from standardised. The several branches of the learning community have adopted different variants and occasionlly re-use terms in different contexts with slightly different meaning. Here we try to offer sets of definitions that will help you to survive.
+
+Before we do that, let us propose a minimal subset of specific terms, by choice, that we will try to use in the context of bioinformatics training in  a  consistent way. We will prefer to use the term INSTRUCTOR  instead of teacher or professor. We will use the term LEARNER instead of student. These choices are adopted just because they are more encompassing.
+
+Here we offer lists of definitions that seem useful. Inevitably, for the reasons isted above, you will find inconsistencies here  and there. You will need to learn how to deal with the situation.
+
+In the following list, most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf). 
 
 * **ACTIVE LEARNING**: A process whereby learners are actively engaged in the learning process, rather than "passively" absorbing lectures. Active learning involves reading, writing, discussion, and engagement in solving problems, analysis, synthesis, and evaluation. Active learning often involves cooperative learning (from the [Glossary of education terms on Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_education_terms)). 
 * **ASYNCHRONOUS LEARNING**: When learners participate in an online learning course at different times. This might also be called eLearning or web-based training (WBT). Asynchronous learning allows learners to go through a course at their own pace and on their own schedule.
@@ -32,7 +39,11 @@ Most definitions are taken from the [Glossary of Online Learning Terms](http://t
 * **WEB-BASED TRAINING (WBT)**: WBT refers to all types of digital instruction in which the learning material is presented via the Internet.
 
 <a name="learning"></a>
-####Learning objectives and outcomes
+####Learning objectives and learning outcomes
+
+These two terms are often used interchangeably by the community. Even worse, they are often abbreviated by the acronym (LO), thus introducing even more ambiguity. In our opinion there is no need. Objectives (aims) and Outcomes (results) may overlap, but are not genuinely the same.
+
+Here is an attempt to clarify this situation and remove the ambiguities:
 
 ###Learning Objectives
  * Objectives describe the goals and intentions of the instructor.
