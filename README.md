@@ -24,16 +24,16 @@ with the cooperation of **David P. Judge**, GTPB long term collaborator
 **Purpose**
 The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with the BPBR16 Training course “Bioinformatics using Python for Biomedical Researchers“ on July 10th-15th 2016.
 
-The first day (Sunday, July 10th) will be entirely devoted to explore and discuss four main themes: 
+The learning objectives of the first day (Sunday, July 10th) consist of exploring, discussing and understanding four main themes: 
 
-* Review of learning principles and how they apply to training
+* Learning principles and how they apply to training
 * Training techniques that can be used to enhance learner engagement and participation
 * Session, course, and materials design
 * Assessment and feedback in training
 
 The following days (from Monday to friday) TtT participants will be able to act as training assistants, and will attend end-of-the-day recapitulation meetings where the effectiveness of the methods is assessed and discussed. They will be asked to prepare short reports as assignments.
 
-> ### Learning objectives
+> ### Learning outcomes
 > * Learners can tell which learning principles a good trainer should have in mind
 > * Learners can describe at least three training techniques drawing on learning principles
 > * Learners can design a training session and a course
@@ -56,12 +56,12 @@ The following days (from Monday to friday) TtT participants will be able to act 
 ### Session 1: Review of learning principles and how they apply to training
  
  * Terminology used in learning; 
- * Learning objectives and outcomes;
+ * Learning aims, objectives and outcomes;
+ * The Bloom's six categories of cognitive skills;
  * How learning works: research-based principles of learning and their implications for teaching practice;
  * What is formal and non-formal learning?
  * Relevant models from cognitive science;
  * Cognitive load.
-
 
 ### Session 2: Training techniques that can be used to enhance learner engagement and participation
  * Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust;

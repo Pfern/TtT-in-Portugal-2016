@@ -79,9 +79,7 @@ In training, we also use lectures to convey information, but we make them short,
 <a name="learning"></a>
 ####Learning by doing
 
-ALLEGRA
-
->###Challenge 4: How do you go about learning something new ?
+>###Challenge 4: How do you go about learning something new ? How do you approach learning new things?
 
 > - Read about it
 > - Attend a training session !
@@ -98,16 +96,16 @@ ALLEGRA
 
 Our experience suggests that there are activities that should be reduced and activities that should be carried out as much intensively as possible.
 
-Activities the instructor should keep to a minimum:
+**Activities the instructor should keep to a minimum**:
 
 - lecturing
 - individual work out
 - answering questions
-- keeping the same pace
+- keeping monotone pace
 - using a monotone modality of content delivery (including the tone of the voice)
 
 
-Activities the instructor should promote:
+**Activities the instructor should promote**:
 
 - listening
 - asking questions/challenging
@@ -119,7 +117,7 @@ Activities the instructor should promote:
 - games
 - physical exercise
 - presentations by participants
-- change of mode/pace/activity
+- changing mode/pace/activity
 
 
 ####Retention
