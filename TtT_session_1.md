@@ -154,6 +154,8 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 >
 --- 
 
+
+---
 > Source:
 > How learning works: Seven research-based principles for smart teaching
 > By Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer
