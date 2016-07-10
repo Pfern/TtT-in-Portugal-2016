@@ -53,7 +53,7 @@ The following days (from Monday to friday) TtT participants will be able to act 
 ><br>
 >                            Donald Rumsfeld
 >
-https://youtu.be/GiPe1OiKQuk
+> https://youtu.be/GiPe1OiKQuk
 ---
 
 # Sunday, July 10th
