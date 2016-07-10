@@ -18,6 +18,7 @@ with the cooperation of **David P. Judge**, GTPB long term collaborator
 * Kim	Gurwitz, University of Cape Town
 * Marta	Pingarilho, Instituto de Higiene e Medicina Tropical
 * Ranghild	Lereim, University of Bergen
+* Ke Lin, Rijk Zwaan De Lier, NL
 
 ##
 
@@ -26,10 +27,10 @@ The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a 
 
 The learning objectives of the first day (Sunday, July 10th) consist of exploring, discussing and understanding four main themes: 
 
-* Learning principles and how they apply to training
-* Training techniques that can be used to enhance learner engagement and participation
-* Session, course, and materials design
-* Assessment and feedback in training
+* [Learning principles and how they apply to training](./TtT_session_1.md)
+* [Training techniques that can be used to enhance learner engagement and participation] (./TtT_session_2.md)
+* [Session, course, and materials design] (./TtT_session_3.md)
+* [Assessment and feedback in training] (./TtT_session_4.md)
 
 The following days (from Monday to friday) TtT participants will be able to act as training assistants, and will attend end-of-the-day recapitulation meetings where the effectiveness of the methods is assessed and discussed. They will be asked to prepare short reports as assignments.
 
@@ -40,22 +41,39 @@ The following days (from Monday to friday) TtT participants will be able to act 
 > * Learners can develop assessment questionnaires
 > * Learners can tell what types of material are needed for each part of a training session 
 
+---
+> As we know,<br>
+> There are known knowns.<br>
+> There are things we know we know.<br>
+> We also know<br>
+> THere are known unknowns.<br>
+> That is to say<br>
+> We know there are some thingse do not know.<br>
+> But there are also unknown unknowns,<br>
+> The ones we don't know we don't know.<br>
+><br>
+>                            Donald Rumsfeld
+>
+> https://youtu.be/GiPe1OiKQuk
+---
+
 # Sunday, July 10th
 
  Time | Activity
 :-------------:|:----------------:
 10.00 - 10.30         | Introductions, who is who and what we need to achieve
-10.30 - 11.30         | **Session 1**: Review of learning principles and how they apply to training
-11.30 - 13.00         | **Session 2**: Training techniques that can be used to enhance learner engagement and participation
+10.30 - 11.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
+11.30 - 13.00         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
 13.00 - 14.15         | **Lunch**
-14.15 - 16.30         | **Session 3**: Session, course, and materials design
-16.00 - 17.30         | **Session 4**: Assessment and feedback in training
+14.15 - 16.30         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
+16.00 - 17.30         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
 17.30 - 18.00         | Wrap-up and assignments
 
  
 ### Session 1: Review of learning principles and how they apply to training
- 
- * Terminology used in learning; 
+
+
+ * Terminology used in learning;
  * Learning aims, objectives and outcomes;
  * The Bloom's six categories of cognitive skills;
  * How learning works: research-based principles of learning and their implications for teaching practice;

@@ -140,16 +140,6 @@ In training, we also use lectures to convey information, but we make them short,
 <a name="learning"></a>
 ####Learning by doing
 
->###Challenge 4: How do you go about learning something new ? How do you approach learning new things?
-
-> - Read about it
-> - Attend a training session !
-> - Have a go ?
-> - Do, reflect, process, further understand?
-> 
-> Which is the most effective approach for *you* to learn? Discuss it with your partner and compare. Make a list of three effective approaches (from the most to the less effective one).
-
-
 ![What people remember](fig/what_people_remember.jpg)
 <a name="retention"></a>
 
@@ -242,7 +232,7 @@ In a course lasting more than one day, the wrap-up of one entire day, can be car
 If you mean to use this type of wrap-up, it is important to inform the participants at the beginning of the course about your intention: many people don't like to be exposed and may feel uncomfortable if not irritated by knowing they have to do something they don't like with short or no notice. 
 Usually they accept talking in front of the class if they have time to adapt to this idea *and* you explain them what are their benefits in doing this.
 
-Feedback at the end of each session should be quick and simple. One example approach is the fist of five voting, which is described in the [session on assessment](./TtT_session_4).  
+Feedback at the end of each session should be quick and simple. One example approach is the fist of five voting, which is described in the [session on assessment](./TtT_session_4.md).  
 
 
 ##Challenges: discussion

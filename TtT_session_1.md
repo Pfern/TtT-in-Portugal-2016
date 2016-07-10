@@ -35,7 +35,6 @@ In the following list, most definitions are taken from the [Glossary of Online L
 * **eLEARNING**:eLearning (short for electronic learning) is an umbrella term that refers to all types of training, education and instruction that occurs on a digital medium, like a computer or mobile phone. The term evolved from Enhanced Learning which was actually more encompassing and acccurate.
 * **INFORMAL LEARNING**: Informal learning occurs when people have a need to know something. They set their own learning objectives and acquire knowledge, skills and information in their own ways. This could be through asking questions, observing experts, practicing and conversing. It’s the kind of natural learning humans do outside of a structured environment.
 * **INSTRUCTIONAL DESIGN**: Instructional design involves the identification of the knowledge, information, and skill gaps of a particular group of people and creating or selecting learning experiences that close this gap. Instructional designers base their learning decisions on cognitive psychology, instructional theory and best practices.
-<<<<<<< HEAD
 * **INSTRUCTOR LED TRAINING (ILT)**: ILT typically refers to providing instruction in a classroom environment where the instructor and learners are together at the same time and in the same physical location.
 * **LEARNING OBJECTIVES**: Learning objectives describe the goals and intentions of the instructor who teaches the course. They state the purpose and goals of a session or of the course.
 * **LEARNING OUTCOMES**: A Learning Outcome is an outcome statement that captures specifically what knowledge, skills, attitudes learners should be able to exhibit following instruction.
@@ -67,18 +66,6 @@ In the following list, most definitions are taken from the [Glossary of Online L
 
 **See also** the [PDF] (docs/Objectives_vs_Outcomes.pdf) document from the [Rensselaer Polytechnic Institute Office of the Provost](http://provost.rpi.edu/institutional-research)
 
-####Learning outcomes should be SMART
-||||
-|---------------------|---------------|--------------|
-|Specific|They should state clearly what the student should know/be able to do, and at what level|What?|
-|Measurable|You should be able to conceive of how their attainment might be assessed|By trainee / trainer or both?|
-|Achievable| by the learners|Is it possible in this context?|
-|Realistic|Could be seen as similar to attainability, but refers to their appropriateness to the overall task. "Valid" in assessment-speak|Can we really train them to do this?|
-|Time-limited|Or achievable within the time-span of the session/lesson/course|In what time?|
-
-<a name="bloom"></a>
-###The Bloom's six categories of cognitive skills
-
 ####Learning objectives and learning outcomes
 
 These two terms are often used interchangeably by the community. Even worse, they are often abbreviated by the acronym (LO), thus introducing even more ambiguity. In our opinion there is no need. Objectives (aims) and Outcomes (results) may overlap, but are not genuinely the same.
@@ -109,6 +96,17 @@ assessment process in the course.
 
 Adapted from http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes
 
+####Learning outcomes should be SMART
+||||
+|---------------------|---------------|--------------|
+|Specific|They should state clearly what the student should know/be able to do, and at what level|What?|
+|Measurable|You should be able to conceive of how their attainment might be assessed|By trainee / trainer or both?|
+|Achievable| by the learners|Is it possible in this context?|
+|Realistic|Could be seen as similar to attainability, but refers to their appropriateness to the overall task. "Valid" in assessment-speak|Can we really train them to do this?|
+|Time-limited|Or achievable within the time-span of the session/lesson/course|In what time?|
+
+<a name="bloom"></a>
+###The Bloom's six categories of cognitive skills
 
 **Bloom's Taxonomy of Educational Objectives (1956) - Cognitive Skills**: A group of educators, led by Benjamin Bloom, identified a hierarchy of six categories of cognitive skills: knowledge, comprehension, application, analysis, synthesis and evaluation.  As students learn, they start with the knowledge level and progress through the hierarchy.  Thus, advanced courses should include skills at a higher level than introductory or basic skills courses.  Below you will find a web-resource as well as a list of measurable verbs to assist you in writing course objectives and assess learning outcomes.
 
@@ -145,6 +143,22 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 ###How learning works: research-based principles of learning and their implications for teaching practice
 
 ---
+<<<<<<< HEAD
+=======
+>###Challenge 4: How do you go about learning something new ? How do you approach learning new things?
+
+> - Read about it
+> - Attend a training session !
+> - Have a go ?
+> - Do, reflect, process, further understand?
+> 
+> Which is the most effective approach for *you* to learn? Make a list of three approaches that work for you when you want to learn something new (from the most to the less effective one). Discuss it with your partner and compare. 
+>
+--- 
+
+
+---
+>>>>>>> a58c6d1cb2e4a93930d923fcd7966b2f2a421d5c
 > Source:
 > How learning works: Seven research-based principles for smart teaching
 > By Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer
@@ -167,7 +181,7 @@ See also: [The Eberly Center for Teaching Excellence and Educational Innovation 
 - **Principle P1**:	Students' prior knowledge can help or hinder learning
 	What does the research tell us about prior knowledge?
 	What teaching strategies does the research suggest?
-<<<<<<< HEAD
+
 - **Principle P2**:	How students organise knowledge influences how they learn and apply what they know
 - **Principle P3**:	Students motivation determines, directs and sustains what they do learn
 - **Principle P4**:	To develop mastery, students must acquire component skills, practice integrating them, and how and when to apply what they have learned
