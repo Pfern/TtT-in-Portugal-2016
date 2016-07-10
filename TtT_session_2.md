@@ -242,7 +242,7 @@ In a course lasting more than one day, the wrap-up of one entire day, can be car
 If you mean to use this type of wrap-up, it is important to inform the participants at the beginning of the course about your intention: many people don't like to be exposed and may feel uncomfortable if not irritated by knowing they have to do something they don't like with short or no notice. 
 Usually they accept talking in front of the class if they have time to adapt to this idea *and* you explain them what are their benefits in doing this.
 
-Feedback at the end of each session should be quick and simple. One example approach is the fist of five voting, which is described in the [session on assessment](./TtT_session_4).  
+Feedback at the end of each session should be quick and simple. One example approach is the fist of five voting, which is described in the [session on assessment](./TtT_session_4.md).  
 
 
 ##Challenges: discussion
