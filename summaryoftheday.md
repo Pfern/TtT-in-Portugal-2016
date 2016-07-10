@@ -5,14 +5,14 @@
 
 
 ## terminology
-- learners...
+- learners... TBC
 
 ## objectives and outcomes
 key objects and key outcome separately
 
 smart learning outcomes
 share objectives and outcomes with students at any stage
-
+ ... TBC
 
 ## how learning works
 way to deliver :  read \, prepare slides, deliver lecture
