@@ -17,8 +17,6 @@
 <a name="rooms"></a>
 ### Training rooms for Bioinformatics, Reproducibility of training environments;
 
-PEDRO
-
 Bioinformatics training targets a wide range of subjects that have very different needs in terms of the machinery needed to run exercises. However, there are design constraints that every training room should respect. And these are important in the initial planning, and in improvements that one may consider in their lifetime.
 
 Room geometry
@@ -44,7 +42,6 @@ The working environment for learners should be entirely reproducible. First, ins
 
 <a name="mat2"></a>
 ### Training materials: Archival; Sharing; Making re-use possible;
-PEDRO
 
 Training materials developed ahead for a specific training event have a survival issue. If they reflect too much of a conne ction to other parts of the event they tend to loose autonomy. It also happens that true autonomy is not there if the materials are used out of the original environment, for example slides may not work without a narration (audio).
 
