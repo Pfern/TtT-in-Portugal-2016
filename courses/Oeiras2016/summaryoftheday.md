@@ -17,10 +17,17 @@ share objectives and outcomes with students at any stage
 ## how learning works
 way to deliver :  read \, prepare slides, deliver lecture
 
-<img src="./fig/wayoflearning.png" alt="slot" style="width: 600px;"/>
+<img src="../../fig/wayoflearning.png" alt="slot" style="width: 600px;"/>
 
 
 
 ## about training sessions
 What makes a good training session?<br>
 What makes a bad training session?
+
+<img src="../../fig/goodtrainingsessions.png" alt="slot" style="width: 600px;"/>
+
+
+## what makes a good trainer
+
+## skills matrix for trainers: which skills do you have?
