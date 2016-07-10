@@ -123,3 +123,14 @@ The following days (from Monday to friday) TtT participants will be able to act 
   * Collect responses dynamically using Socrative or Learning Catalytics;
   * Create a group discussion and its annotation;
   
+---
+> Day 1 Challenge:
+> * Read the Sofware Carpentry Instryctor training document on [Concept maps](https://github.com/swcarpentry/instructor-training/blob/gh-pages/_episodes/08-memory.md)
+> * If you want you can find further material on [Wikipedia](https://en.wikipedia.org/wiki/Concept_map)
+> * Choose a topic that can be explained/taught in 3 minutes
+> * Write Learning Objectives and Outcomes 
+> * Draw a concept map
+> * Make a 3 minute presentation (with or without slides)
+> On Day 2, you will be videoed while presenting in group and receive feedback.
+>
+---
