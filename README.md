@@ -18,6 +18,7 @@ with the cooperation of **David P. Judge**, GTPB long term collaborator
 * Kim	Gurwitz, University of Cape Town
 * Marta	Pingarilho, Instituto de Higiene e Medicina Tropical
 * Ranghild	Lereim, University of Bergen
+* Ke Lin, Rijk Zwaan De Lier, NL
 
 ##
 
