@@ -30,4 +30,7 @@ What makes a bad training session?
 
 ## what makes a good trainer
 
+<img src="../../fig/goodtrainer.png" alt="slot" style="width: 600px;"/>
+
+
 ## skills matrix for trainers: which skills do you have?
