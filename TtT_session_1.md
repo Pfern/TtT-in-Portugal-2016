@@ -1,7 +1,7 @@
 #ELIXIR – EXCELERATE Train the Trainer subtask
 
 ## Session 1: Review of learning principles and how they apply to training
- 
+
  * [Terminology used in learning;](#term)
  * [Learning aims, objectives and outcomes;](#learning)
  * [The Bloom's six categories of cognitive skills](#bloom)
@@ -24,10 +24,10 @@ Before we do that, let us propose a minimal subset of specific terms, by choice,
 
 Here we offer lists of definitions that seem useful. Inevitably, for the reasons isted above, you will find inconsistencies here  and there. You will need to learn how to deal with the situation.
 
-In the following list, most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf). 
+In the following list, most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf).
 
 
-* **ACTIVE LEARNING**: A process whereby learners are actively engaged in the learning process, rather than "passively" absorbing lectures. Active learning involves reading, writing, discussion, and engagement in solving problems, analysis, synthesis, and evaluation. Active learning often involves cooperative learning (from the [Glossary of education terms on Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_education_terms)). 
+* **ACTIVE LEARNING**: A process whereby learners are actively engaged in the learning process, rather than "passively" absorbing lectures. Active learning involves reading, writing, discussion, and engagement in solving problems, analysis, synthesis, and evaluation. Active learning often involves cooperative learning (from the [Glossary of education terms on Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_education_terms)).
 * **ASYNCHRONOUS LEARNING**: When learners participate in an online learning course at different times. This might also be called eLearning or web-based training (WBT). Asynchronous learning allows learners to go through a course at their own pace and on their own schedule.
 * **BLENDED LEARNING or HYBRID LEARNING**: It is an instructional approach that includes a combination of online and in-person learning activities. For example, students can complete online self-paced assignments by a certain date and then meet on-site or online for additional learning activities.
 * **COURSEWARE**: Courseware refers to any instructional software that is delivered on a computer.
@@ -45,7 +45,7 @@ In the following list, most definitions are taken from the [Glossary of Online L
 * **ONLINE LEARNING**: The term online learning is often used synonymously with eLearning. It is an umbrella term that includes any type of learning accomplished on a computer and usually over the Internet.
 * **SELF-PACED LEARNING**: Self-paced learning refers to the type of instruction that allows a person to control the flow of the courseware. It implies the learning environment is asynchronous.
 * **SOCIAL MEDIA LEARNING**: Social media learning refers to the acquisition of information and skills through social technologies that allow people to collaborate, converse, provide input, create content and share it. Examples of social media learning can occur through online social networking platforms, blogs and microblogs (like Twitter), online talk radio and wikis.
-* **SYNCHRONOUS LEARNING**: When learners participate in an online learning course at the same time but in different locations, it is known as synchronous learning. Synchronous learning allows learners to interact with the instructor and other participants. This is done through software that creates a virtual classroom. 
+* **SYNCHRONOUS LEARNING**: When learners participate in an online learning course at the same time but in different locations, it is known as synchronous learning. Synchronous learning allows learners to interact with the instructor and other participants. This is done through software that creates a virtual classroom.
 * **VIRTUAL CLASSROOM**: The virtual classroom refers to a digital classroom learning environment that takes place over the Internet rather than in a physical classroom. It is implemented through software that allows an instructor and students to interact.
 * **WEB-BASED TRAINING (WBT)**: WBT refers to all types of digital instruction in which the learning material is presented via the Internet.
 
@@ -53,11 +53,11 @@ In the following list, most definitions are taken from the [Glossary of Online L
 
 ###Learning aims, objectives and outcomes
 
---- 
+---
 > Source: [Atherton J S (2013) Learning and Teaching; Objectives](http://www.learningandteaching.info/teaching/objectives.htm#ixzz4DtSAL2pi)
 - Under Creative Commons License: Attribution Non-Commercial No Derivatives
 >
---- 
+---
 
 **Aims** are broad statements of what learning the instructor hopes to generate. The **aim** is the point of the whole thing. As such, even hard-liners concede that it can be fairly vague, and non-behavioural terms, such as “understand”, and “appreciate” or “develop” are rather reluctantly accepted. The Aim is almost certainly more than the sum of the Objectives, and regardless of what many people say, the Aim is what matters. It is the End, and all the rest is just Means.
 
@@ -129,7 +129,7 @@ Adapted from http://provost.rpi.edu/learning-assessment/learning-outcomes/object
 
 Source: [List of Measurable Verbs Used to Assess Learning Outcomes ](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
-**Writing Objectives Using Bloom's Taxonomy**: 
+**Writing Objectives Using Bloom's Taxonomy**:
 
 |Level|Questions|
 |---------------------|---------------|
@@ -144,7 +144,7 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 <a name="works"></a>
 ###How learning works: research-based principles of learning and their implications for teaching practice
 
---- 
+---
 > Source:
 > How learning works: Seven research-based principles for smart teaching
 > By Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer
@@ -178,9 +178,9 @@ See also: [The Eberly Center for Teaching Excellence and Educational Innovation 
 **Instructional strategies that collectively address all seven principles (P1-P7)**:
 
 - **Strategy S1**: Collect data about students and use it to design instruction (P1,P3).
-- **Strategy S2**: Be explicit aboyt your learning goals, learning objectives and expecations (P3, P5, P6). Make your learning foals challenging but attainable by most of the learners in your course. Write detailed learning outcomes that spell out what the learners should be able to do (define, explain, calculate, model, critique, design,...) if they have aquired the knowledge and skills you are trying to help them to develop, and share your objectives with the learners.
+- **Strategy S2**: Be explicit about your learning goals, learning objectives and expecations (P3, P5, P6). Make your learning foals challenging but attainable by most of the learners in your course. Write detailed learning outcomes that spell out what the learners should be able to do (define, explain, calculate, model, critique, design,...) if they have aquired the knowledge and skills you are trying to help them to develop, and share your objectives with the learners.
 - **Strategy S3**: Scaffold complex tasks (P2-P7). Teach and test at a level that is challenging but not too far abouve the learners' current klnowledge and skill levels.
-- **Strategy S4**: Help learners learn to funcion like experts (P2, P4, P7). Have learners formulate solution strategies before beginning to work on new problems, and when they complete assignments have them reflect on what they learned and what they will do differently in the future. 
+- **Strategy S4**: Help learners learn to funcion like experts (P2, P4, P7). Have learners formulate solution strategies before beginning to work on new problems, and when they complete assignments have them reflect on what they learned and what they will do differently in the future.
 - **Strategy S5**: Establish a supportive class climate (P3, P6). Learn and use learners' names and encourage them to interact with you in and out the course. Collect anonymous learner feedback and investigate and respond to any complaints related to class climate.
 
 **See also**: [Brent R and Felder RM (2011)](docs/how_learning_works_thoughts.pdf)
@@ -296,7 +296,7 @@ Learning activities: main thing to remember:
 - People can only concentrate for short periods – often 15 – 20 minutes at most, before it drops
 - For lecture sessions – intersperse with activities eg questions, short problems, discussion points
 - For practical sessions – check on where the group as a whole is, or have demonstrators who can move around the room
- 
+
 
 ####Learning Theories
 
@@ -320,8 +320,8 @@ Connectivism (started in the 1980s by Stephen Downes and George Siemens):
 Ref: "Knowing Knowledge”, George Siemens 2006, http:www.elearnspace.org/KnowingKnowledge_LowRes.pdf
 
 
-Connectivism is at the root of many present movements in learning, sometimes in a silent way (for example the Massive Open Online Courses also known as the MOOCs). 
-For a large number of reasons that we can - and should - discuss at length, connectivism is the standpoint that we find most suitable to support most of the design and implementation decisions in what concerns the training courses that we are concentrating on. 
+Connectivism is at the root of many present movements in learning, sometimes in a silent way (for example the Massive Open Online Courses also known as the MOOCs).
+For a large number of reasons that we can - and should - discuss at length, connectivism is the standpoint that we find most suitable to support most of the design and implementation decisions in what concerns the training courses that we are concentrating on.
 
 <a name="cognitive"></a>
 ###Cognitive load
@@ -329,7 +329,7 @@ For a large number of reasons that we can - and should - discuss at length, conn
 ---
 >Source: Cognitive load - [Wikipedia](https://en.wikipedia.org/wiki/Cognitive_load)
 >
-> References: 
+> References:
 >
 > - Sweller, J., Cognitive load during problem solving: Effects on learning, Cognitive Science, 12, 257-285 (1988)
 > - Sweller, J., Instructional Design in Technical Areas, (Camberwell, Victoria, Australia: Australian Council for Educational Research (1999)
@@ -340,4 +340,3 @@ In cognitive psychology, cognitive load refers to the total amount of mental eff
 Cognitive load theory differentiates cognitive load into three types: intrinsic, extraneous, and germane.
 
 Intrinsic cognitive load is the effort associated with a specific topic. Extraneous cognitive load refers to the way information or tasks are presented to a learner. And, germane cognitive load refers to the work put into creating a permanent store of knowledge, or a schema.
-
