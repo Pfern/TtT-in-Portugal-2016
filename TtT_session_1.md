@@ -67,18 +67,6 @@ In the following list, most definitions are taken from the [Glossary of Online L
 
 **See also** the [PDF] (docs/Objectives_vs_Outcomes.pdf) document from the [Rensselaer Polytechnic Institute Office of the Provost](http://provost.rpi.edu/institutional-research)
 
-####Learning outcomes should be SMART
-||||
-|---------------------|---------------|--------------|
-|Specific|They should state clearly what the student should know/be able to do, and at what level|What?|
-|Measurable|You should be able to conceive of how their attainment might be assessed|By trainee / trainer or both?|
-|Achievable| by the learners|Is it possible in this context?|
-|Realistic|Could be seen as similar to attainability, but refers to their appropriateness to the overall task. "Valid" in assessment-speak|Can we really train them to do this?|
-|Time-limited|Or achievable within the time-span of the session/lesson/course|In what time?|
-
-<a name="bloom"></a>
-###The Bloom's six categories of cognitive skills
-
 ####Learning objectives and learning outcomes
 
 These two terms are often used interchangeably by the community. Even worse, they are often abbreviated by the acronym (LO), thus introducing even more ambiguity. In our opinion there is no need. Objectives (aims) and Outcomes (results) may overlap, but are not genuinely the same.
@@ -109,6 +97,17 @@ assessment process in the course.
 
 Adapted from http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes
 
+####Learning outcomes should be SMART
+||||
+|---------------------|---------------|--------------|
+|Specific|They should state clearly what the student should know/be able to do, and at what level|What?|
+|Measurable|You should be able to conceive of how their attainment might be assessed|By trainee / trainer or both?|
+|Achievable| by the learners|Is it possible in this context?|
+|Realistic|Could be seen as similar to attainability, but refers to their appropriateness to the overall task. "Valid" in assessment-speak|Can we really train them to do this?|
+|Time-limited|Or achievable within the time-span of the session/lesson/course|In what time?|
+
+<a name="bloom"></a>
+###The Bloom's six categories of cognitive skills
 
 **Bloom's Taxonomy of Educational Objectives (1956) - Cognitive Skills**: A group of educators, led by Benjamin Bloom, identified a hierarchy of six categories of cognitive skills: knowledge, comprehension, application, analysis, synthesis and evaluation.  As students learn, they start with the knowledge level and progress through the hierarchy.  Thus, advanced courses should include skills at a higher level than introductory or basic skills courses.  Below you will find a web-resource as well as a list of measurable verbs to assist you in writing course objectives and assess learning outcomes.
 
