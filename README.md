@@ -125,7 +125,7 @@ The following days (from Monday to friday) TtT participants will be able to act 
   
 ---
 > Day 1 Challenge:
-> * Read the Sofware Carpentry Instryctor training document on [Concept maps](https://github.com/swcarpentry/instructor-training/blob/gh-pages/_episodes/08-memory.md)
+> * Read the Sofware Carpentry Instructor training document on [Concept maps](https://github.com/swcarpentry/instructor-training/blob/gh-pages/_episodes/08-memory.md)
 > * If you want you can find further material on [Wikipedia](https://en.wikipedia.org/wiki/Concept_map)
 > * Choose a topic that can be explained/taught in 3 minutes
 > * Write Learning Objectives and Outcomes 
