@@ -27,9 +27,9 @@ The GTPB, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a 
 The learning objectives of the first day (Sunday, July 10th) consist of exploring, discussing and understanding four main themes: 
 
 * [Learning principles and how they apply to training](./TtT_session_1.md)
-* Training techniques that can be used to enhance learner engagement and participation
-* Session, course, and materials design
-* Assessment and feedback in training
+* [Training techniques that can be used to enhance learner engagement and participation] (./TtT_session_2.md)
+* [Session, course, and materials design] (./TtT_session_3.md)
+* [Assessment and feedback in training] (./TtT_session_4.md)
 
 The following days (from Monday to friday) TtT participants will be able to act as training assistants, and will attend end-of-the-day recapitulation meetings where the effectiveness of the methods is assessed and discussed. They will be asked to prepare short reports as assignments.
 
@@ -46,10 +46,10 @@ The following days (from Monday to friday) TtT participants will be able to act 
 :-------------:|:----------------:
 10.00 - 10.30         | Introductions, who is who and what we need to achieve
 10.30 - 11.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
-11.30 - 13.00         | **Session 2**: Training techniques that can be used to enhance learner engagement and participation
+11.30 - 13.00         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
 13.00 - 14.15         | **Lunch**
-14.15 - 16.30         | **Session 3**: Session, course, and materials design
-16.00 - 17.30         | **Session 4**: Assessment and feedback in training
+14.15 - 16.30         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
+16.00 - 17.30         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
 17.30 - 18.00         | Wrap-up and assignments
 
  
