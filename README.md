@@ -55,7 +55,7 @@ The following days (from Monday to friday) TtT participants will be able to act 
  
 ### Session 1: Review of learning principles and how they apply to training
 
- * <a href="./TtT_sessio_1.md#term">Terminology used in learning;</a>
+ * <a href="https://github.com/Pfern/TtT-in-Portugal-2016/edit/master/TtT_sessio_1.md#term">Terminology used in learning;</a>
  * Learning aims, objectives and outcomes;
  * The Bloom's six categories of cognitive skills;
  * How learning works: research-based principles of learning and their implications for teaching practice;
