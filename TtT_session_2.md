@@ -140,16 +140,6 @@ In training, we also use lectures to convey information, but we make them short,
 <a name="learning"></a>
 ####Learning by doing
 
->###Challenge 4: How do you go about learning something new ? How do you approach learning new things?
-
-> - Read about it
-> - Attend a training session !
-> - Have a go ?
-> - Do, reflect, process, further understand?
-> 
-> Which is the most effective approach for *you* to learn? Discuss it with your partner and compare. Make a list of three effective approaches (from the most to the less effective one).
-
-
 ![What people remember](fig/what_people_remember.jpg)
 <a name="retention"></a>
 
