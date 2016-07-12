@@ -34,3 +34,11 @@ What makes a bad training session?
 
 
 ## skills matrix for trainers: which skills do you have?
+
+
+# 12 July
+
+1) Provide a printed cheatsheet with Python commands
+2) As for Parsing-I and Parsing-II challenges, specify it is a single task split in chunks (= challenges)
+3) Assign more challenges together and give more time
+4) As for the "write instructions to draw the figure" game, provide the figure in advance a make smaller groups
