@@ -106,7 +106,7 @@ in Bioinformatics, Adv Bioinformatics. 2012;2012:672749. doi:
 
 There are several methods that can be used to evaluate training. One of the most referenced methods comes from Donald Kirpatrick (1924-2014).
 
-*The Kirkpatrick Model
+####The Kirkpatrick Model
 
 - Level 1: Reaction
 The degree to which participants find the training favorable, engaging and relevant to their jobs
@@ -120,3 +120,8 @@ The degree to which participants apply what they learned during training when th
 - Level 4: Results
 The degree to which targeted outcomes occur as a result of the training and the support and accountability package
 
+This model has been revised and expanded several times, see for example:
+
+http://www.kirkpatrickpartners.com/OurPhilosophy/TheNewWorldKirkpatrickModel/tabid/303/Default.aspx
+
+The evaluation of training is a difficult subject. There is an obvious need to standardise to allpow for the comparison of observations.
