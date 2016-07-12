@@ -100,3 +100,30 @@ Critical appraisals often happen is casual conversations. One should take notes 
 Example: Pedro Fernandes, Pooja Jain, Catarina Moita Training Experimental Biologists
 in Bioinformatics, Adv Bioinformatics. 2012;2012:672749. doi:
 10.1155/2012/672749. Epub 2012 Jan 31. (Open Access)
+
+
+####Training Evaluation
+
+There are several methods that can be used to evaluate training. One of the most referenced methods comes from Donald Kirpatrick (1924-2014).
+
+####The Kirkpatrick Model
+
+- Level 1: Reaction
+The degree to which participants find the training favorable, engaging and relevant to their jobs
+
+- Level 2: Learning
+The degree to which participants acquire the intended knowledge, skills, attitude, confidence and commitment based on their participation in the training
+
+- Level 3: Behavior
+The degree to which participants apply what they learned during training when they are back on the job
+
+- Level 4: Results
+The degree to which targeted outcomes occur as a result of the training and the support and accountability package
+
+This model has been revised and expanded several times, see for example:
+
+http://www.kirkpatrickpartners.com/OurPhilosophy/TheNewWorldKirkpatrickModel/tabid/303/Default.aspx
+
+The evaluation of training is a difficult subject. There is an obvious need to standardise to allow for the comparison of observations.
+
+You may like to read an article about applying Kirkpatrick's methods. https://www.mindtools.com/pages/article/kirkpatrick.htm
