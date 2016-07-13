@@ -81,12 +81,14 @@ It may be useful to consider building your own (or adapting from Pedro's) checkl
 
     consider exercise alternatives 
 
-    gauge duration, tech. requirements, testing / 
+    gauge duration, tech. requirements, testing  
 
-    pick the best suited exercise / 
+    pick the best suited exercise 
 
-    design a short lecture to precede it/  
-    adjust timing for an ideal training slot duration / 
+    design a short lecture to precede it
+    
+    adjust timing for an ideal training slot duration 
+
     prepare self-assessment questions
 
     }
