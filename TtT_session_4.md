@@ -124,6 +124,8 @@ This model has been revised and expanded several times, see for example:
 
 http://www.kirkpatrickpartners.com/OurPhilosophy/TheNewWorldKirkpatrickModel/tabid/303/Default.aspx
 
-The evaluation of training is a difficult subject. There is an obvious need to standardise to allow for the comparison of observations.
+Applying the Kirkpatrick model and its variants is not easy. One needs to be very careful in checking pre-requisites, assumptions and options in the measurement methods.
+
+The evaluation of training efficiency is a difficult subject. There is an obvious need to standardise to allow for the comparison of observations.
 
 You may like to read an article about applying Kirkpatrick's methods. https://www.mindtools.com/pages/article/kirkpatrick.htm
