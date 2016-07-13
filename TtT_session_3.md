@@ -57,10 +57,10 @@ Many people involved inthe production of training materials are finding it usefu
 
 Examples from GTPB:
 
-http://mygoblet.org/training-portal/courses/ngs-data-analysis-rnaseq-chipseq    (GOBLET ENTRY)
-http://bioinformatics-core-shared-training.github.io/ndarc16/   (gitpages)
-https://github.com/sdwfrost/mevr        (repository)
-http://sdwfrost.github.io/mevr/         (gitbook)
+http://mygoblet.org/training-portal/courses/ngs-data-analysis-rnaseq-chipseq    (GOBLET ENTRY) /
+http://bioinformatics-core-shared-training.github.io/ndarc16/   (gitpages) /
+https://github.com/sdwfrost/mevr        (repository) /
+http://sdwfrost.github.io/mevr/         (gitbook) /
 
 
 
