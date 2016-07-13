@@ -54,7 +54,7 @@ This is INSTANT FEEDBACK.
 Several methods have been tested, some of the using technology (Clickers, Socrative, Learning Catalytics) or not (the fist of five method). The choice is made according to the availability of the means and how engaging the audience finds it.
 
 ---
->###Fist of Five Feedback
+>###Fist or Five Feedback
 >
 >by Allegra Via, Kristian Rother and Pedro Fernandes
 >From: [Academis by Kristian Rother](http://www.academis.sites.djangoeurope.com/blog/posts/recipe-fist-or-five/).
