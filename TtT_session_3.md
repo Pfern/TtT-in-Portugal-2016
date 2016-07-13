@@ -53,17 +53,14 @@ A general policy for re-use is not yet in place. However, with sharing principle
 
 The need for referencing training materials in general, in the context of ELIXIR, has led to the development of TeSS, a training e-support system http://elixir-uk.org/elixir-uk-training-sectors/elixir-uk-training-platform. This is all about discovering, packaging and linking training materials, i.e. trying to deal with the excessive fragmentation of the materials, rather than providing a storage repository for them.
 
-Many people involved inthe production of training materials are finding it useful to adopt collaborative platforms to support their activity. Git and GitHub, on which this resource is deveoped and served, is not a de facto standard, but presently it seems the smartest choice, especiually because updating is left in the hands of the authors. The extended capabilties to produce websites, e-books, etc. are also seen as strenths. 
+Many people involved inthe production of training materials are finding it useful to adopt collaborative platforms to support their activity. Git and GitHub, on which this resource is deveoped and served, is not a de facto standard, but presently it seems to be the smartest choice, especially because updating is left in the hands of the authors. The extended capabilties to produce websites, e-books, etc. are also seen as strenths. 
 
 Examples from GTPB:
 
-http://mygoblet.org/training-portal/courses/ngs-data-analysis-rnaseq-chipseq    (GOBLET ENTRY) /
-http://bioinformatics-core-shared-training.github.io/ndarc16/   (gitpages) /
-https://github.com/sdwfrost/mevr        (repository) /
-http://sdwfrost.github.io/mevr/         (gitbook) /
-
-
-
+* http://mygoblet.org/training-portal/courses/ngs-data-analysis-rnaseq-chipseq    (GOBLET ENTRY) 
+* http://bioinformatics-core-shared-training.github.io/ndarc16/   (gitpages) 
+* https://github.com/sdwfrost/mevr        (repository) 
+* http://sdwfrost.github.io/mevr/         (gitbook) 
 
 <a name="preparatory"></a>
 ### Preparatory steps for training delivery
@@ -78,13 +75,20 @@ It may be useful to consider building your own (or adapting from Pedro's) checkl
 * Select potential instructors. One of them plays the leader role. Involve him/her in all discussions from this point on.
 * Breakdown into skills and concepts needed
 * for each skill {
-    state objective(s) and wite them down / 
-    consider exercise alternatives /
+
+
+    state learning objective(s) and wite them down (use SMART learning objectives) 
+
+    consider exercise alternatives 
+
     gauge duration, tech. requirements, testing / 
+
     pick the best suited exercise / 
+
     design a short lecture to precede it/  
     adjust timing for an ideal training slot duration / 
     prepare self-assessment questions
+
     }
 * Compose a logical sequence of slots and distribute them in a course plan timetable
 * for each training day {
