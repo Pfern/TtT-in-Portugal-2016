@@ -68,7 +68,7 @@ http://sdwfrost.github.io/mevr/         (gitbook)
 <a name="preparatory"></a>
 ### Preparatory steps for training delivery
 
-It may be useful to consider adapting from Pedro's checklists:
+It may be useful to consider building your own (or adapting from Pedro's) checklists:
 
 ####To prepare a new training course
 
@@ -82,7 +82,7 @@ It may be useful to consider adapting from Pedro's checklists:
     consider exercise alternatives /
     gauge duration, tech. requirements, testing / 
     pick the best suited exercise / 
-    design a short lecture to precede it/ 
+    design a short lecture to precede it/  
     adjust timing for an ideal training slot duration / 
     prepare self-assessment questions
     }
