@@ -32,7 +32,7 @@ The learning objectives of the first day (Sunday, July 10th) consist of explorin
 * [Session, course, and materials design] (./TtT_session_3.md)
 * [Assessment and feedback in training] (./TtT_session_4.md)
 
-The following days (from Monday to friday) TtT participants will be able to act as training assistants, and will attend end-of-the-day recapitulation meetings where the effectiveness of the methods is assessed and discussed. They will be asked to prepare short reports as assignments.
+The following days (from Monday to Friday) TtT participants will be able to act as training assistants, and will attend end-of-the-day recapitulation meetings where the effectiveness of the methods is assessed and discussed. They will be asked to prepare short reports as assignments.
 
 > ### Learning outcomes
 > * Learners can tell which learning principles a good trainer should have in mind
@@ -83,7 +83,7 @@ The following days (from Monday to friday) TtT participants will be able to act 
 
 ### Session 2: Training techniques that can be used to enhance learner engagement and participation
  * Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust;
- * Teaching as a preformance art: promoting learner engagement;
+ * Teaching as a performance art: promoting learner engagement;
  * The GOBLET skills matrix for trainers;
  * Motivation and demotivation;
  * Closed loop learning delivery;
@@ -125,7 +125,7 @@ The following days (from Monday to friday) TtT participants will be able to act 
   
 ---
 > Day 1 Challenge:
-> * Read the Sofware Carpentry Instructor training document on [Concept maps](https://github.com/swcarpentry/instructor-training/blob/gh-pages/_episodes/08-memory.md)
+> * Read the Software Carpentry Instructor training document on [Concept maps](https://github.com/swcarpentry/instructor-training/blob/gh-pages/_episodes/08-memory.md)
 > * If you want you can find further material on [Wikipedia](https://en.wikipedia.org/wiki/Concept_map)
 > * Choose a topic that can be explained/taught in 3 minutes
 > * Write Learning Objectives and Outcomes 
