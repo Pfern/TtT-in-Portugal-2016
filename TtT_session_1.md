@@ -329,7 +329,7 @@ Connectivism (started in the 1980s by Stephen Downes and George Siemens):
 * No agents form connections better than a learner's brain itself.
 * The instructors act as facilitators. They create the environmental conditions that allow true learning to occur.
 
-Ref: "Knowing Knowledge”, George Siemens 2006, http:www.elearnspace.org/KnowingKnowledge_LowRes.pdf
+Ref: "Knowing Knowledge”, George Siemens 2006, http://www.elearnspace.org/KnowingKnowledge_LowRes.pdf
 
 
 Connectivism is at the root of many present movements in learning, sometimes in a silent way (for example the Massive Open Online Courses also known as the MOOCs).
